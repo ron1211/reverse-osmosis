@@ -272,6 +272,218 @@
 		8B6B30CD1AE130210026F3A8 /* challengeComImgFeedback.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B6B30CB1AE130210026F3A8 /* challengeComImgFeedback.png */; };
 		8B6B30CE1AE130210026F3A8 /* challengeComImgFeedback@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B6B30CC1AE130210026F3A8 /* challengeComImgFeedback@2x.png */; };
 		8B6B30D11AE138170026F3A8 /* ChallengeSeriesCompleteLiveCoachViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B6B30D01AE138170026F3A8 /* ChallengeSeriesCompleteLiveCoachViewController.m */; };
+		AAC1C9E91AE62CE100385455 /* A1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9131AE62CE000385455 /* A1.png */; };
+		AAC1C9EA1AE62CE100385455 /* A1MeaningBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9141AE62CE000385455 /* A1MeaningBackground.png */; };
+		AAC1C9EB1AE62CE100385455 /* A1Strip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9151AE62CE000385455 /* A1Strip.png */; };
+		AAC1C9EC1AE62CE100385455 /* A2.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9161AE62CE000385455 /* A2.png */; };
+		AAC1C9ED1AE62CE100385455 /* A2MeaningBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9171AE62CE000385455 /* A2MeaningBackground.png */; };
+		AAC1C9EE1AE62CE100385455 /* A2Strip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9181AE62CE000385455 /* A2Strip.png */; };
+		AAC1C9EF1AE62CE100385455 /* AboutMeLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9191AE62CE000385455 /* AboutMeLogo.png */; };
+		AAC1C9F01AE62CE100385455 /* ActivePageSource.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C91A1AE62CE000385455 /* ActivePageSource.png */; };
+		AAC1C9F11AE62CE100385455 /* ArrowUp.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C91B1AE62CE000385455 /* ArrowUp.png */; };
+		AAC1C9F21AE62CE100385455 /* AwardChallengeTaken.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C91C1AE62CE000385455 /* AwardChallengeTaken.png */; };
+		AAC1C9F31AE62CE100385455 /* AwardMostActive.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C91D1AE62CE000385455 /* AwardMostActive.png */; };
+		AAC1C9F41AE62CE100385455 /* AwardMostFollowed.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C91E1AE62CE000385455 /* AwardMostFollowed.png */; };
+		AAC1C9F51AE62CE100385455 /* AwardMostLiked.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C91F1AE62CE000385455 /* AwardMostLiked.png */; };
+		AAC1C9F61AE62CE100385455 /* AwardsLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9201AE62CE000385455 /* AwardsLogo.png */; };
+		AAC1C9F71AE62CE100385455 /* AwardTopPercentage.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9211AE62CE000385455 /* AwardTopPercentage.png */; };
+		AAC1C9F81AE62CE100385455 /* B1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9221AE62CE000385455 /* B1.png */; };
+		AAC1C9F91AE62CE100385455 /* B1Strip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9231AE62CE000385455 /* B1Strip.png */; };
+		AAC1C9FA1AE62CE100385455 /* B2.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9241AE62CE000385455 /* B2.png */; };
+		AAC1C9FB1AE62CE100385455 /* B2Strip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9251AE62CE000385455 /* B2Strip.png */; };
+		AAC1C9FC1AE62CE100385455 /* ButtonOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9261AE62CE000385455 /* ButtonOff.png */; };
+		AAC1C9FD1AE62CE100385455 /* ButtonOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9271AE62CE000385455 /* ButtonOn.png */; };
+		AAC1C9FE1AE62CE100385455 /* BuyMoreButton.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9281AE62CE000385455 /* BuyMoreButton.png */; };
+		AAC1C9FF1AE62CE100385455 /* C1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9291AE62CE000385455 /* C1.png */; };
+		AAC1CA001AE62CE100385455 /* C1Strip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C92A1AE62CE000385455 /* C1Strip.png */; };
+		AAC1CA011AE62CE100385455 /* C2.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C92B1AE62CE000385455 /* C2.png */; };
+		AAC1CA021AE62CE100385455 /* C2Strip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C92C1AE62CE000385455 /* C2Strip.png */; };
+		AAC1CA031AE62CE100385455 /* CallMyMobile.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C92D1AE62CE000385455 /* CallMyMobile.png */; };
+		AAC1CA041AE62CE100385455 /* CallWeChat.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C92E1AE62CE000385455 /* CallWeChat.png */; };
+		AAC1CA051AE62CE100385455 /* CarrerLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C92F1AE62CE000385455 /* CarrerLogo.png */; };
+		AAC1CA061AE62CE100385455 /* ChallengeCommentGrey.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9301AE62CE100385455 /* ChallengeCommentGrey.png */; };
+		AAC1CA071AE62CE100385455 /* ChallengeCommentOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9311AE62CE100385455 /* ChallengeCommentOff.png */; };
+		AAC1CA081AE62CE100385455 /* ChallengeCommentOnBlue.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9321AE62CE100385455 /* ChallengeCommentOnBlue.png */; };
+		AAC1CA091AE62CE100385455 /* ChallengeCommentOnOrange.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9331AE62CE100385455 /* ChallengeCommentOnOrange.png */; };
+		AAC1CA0A1AE62CE100385455 /* ChallengeCommunityOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9341AE62CE100385455 /* ChallengeCommunityOff.png */; };
+		AAC1CA0B1AE62CE100385455 /* ChallengeCommunityOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9351AE62CE100385455 /* ChallengeCommunityOn.png */; };
+		AAC1CA0C1AE62CE100385455 /* ChallengeCompletedGraph.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9361AE62CE100385455 /* ChallengeCompletedGraph.png */; };
+		AAC1CA0D1AE62CE100385455 /* ChallengeCompletedOrange.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9371AE62CE100385455 /* ChallengeCompletedOrange.png */; };
+		AAC1CA0E1AE62CE100385455 /* ChallengeExample.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9381AE62CE100385455 /* ChallengeExample.png */; };
+		AAC1CA0F1AE62CE100385455 /* ChallengeGo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9391AE62CE100385455 /* ChallengeGo.png */; };
+		AAC1CA101AE62CE100385455 /* ChallengeGrey.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C93A1AE62CE100385455 /* ChallengeGrey.png */; };
+		AAC1CA111AE62CE100385455 /* ChallengeGrey1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C93B1AE62CE100385455 /* ChallengeGrey1.png */; };
+		AAC1CA121AE62CE100385455 /* ChallengeHeader.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C93C1AE62CE100385455 /* ChallengeHeader.png */; };
+		AAC1CA131AE62CE100385455 /* ChallengeInstructorReview.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C93D1AE62CE100385455 /* ChallengeInstructorReview.png */; };
+		AAC1CA141AE62CE100385455 /* ChallengeLikeGrey.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C93E1AE62CE100385455 /* ChallengeLikeGrey.png */; };
+		AAC1CA151AE62CE100385455 /* ChallengeLikeWhite.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C93F1AE62CE100385455 /* ChallengeLikeWhite.png */; };
+		AAC1CA161AE62CE100385455 /* ChallengeLikeYellow.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9401AE62CE100385455 /* ChallengeLikeYellow.png */; };
+		AAC1CA171AE62CE100385455 /* ChallengeMic.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9411AE62CE100385455 /* ChallengeMic.png */; };
+		AAC1CA181AE62CE100385455 /* ChallengePart.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9421AE62CE100385455 /* ChallengePart.png */; };
+		AAC1CA191AE62CE100385455 /* ChallengePointEarnedBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9431AE62CE100385455 /* ChallengePointEarnedBackground.png */; };
+		AAC1CA1A1AE62CE100385455 /* ChallengePointStar.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9441AE62CE100385455 /* ChallengePointStar.png */; };
+		AAC1CA1B1AE62CE100385455 /* ChallengePointStar1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9451AE62CE100385455 /* ChallengePointStar1.png */; };
+		AAC1CA1C1AE62CE100385455 /* AT A COCKTAIL PARTY.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9471AE62CE100385455 /* AT A COCKTAIL PARTY.png */; };
+		AAC1CA1D1AE62CE100385455 /* AT A COCKTAIL PARTY.PSD in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9481AE62CE100385455 /* AT A COCKTAIL PARTY.PSD */; };
+		AAC1CA1E1AE62CE100385455 /* AT THE RECEPTION DESK.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9491AE62CE100385455 /* AT THE RECEPTION DESK.png */; };
+		AAC1CA1F1AE62CE100385455 /* AT THE RECEPTION DESK.PSD in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C94A1AE62CE100385455 /* AT THE RECEPTION DESK.PSD */; };
+		AAC1CA201AE62CE100385455 /* AT THE START OF A PRESENTATION.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C94B1AE62CE100385455 /* AT THE START OF A PRESENTATION.png */; };
+		AAC1CA211AE62CE100385455 /* AT THE START OF A PRESENTATION.PSD in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C94C1AE62CE100385455 /* AT THE START OF A PRESENTATION.PSD */; };
+		AAC1CA221AE62CE100385455 /* IN A JOB INTERVIEW.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C94D1AE62CE100385455 /* IN A JOB INTERVIEW.png */; };
+		AAC1CA231AE62CE100385455 /* IN A JOB INTERVIEW.PSD in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C94E1AE62CE100385455 /* IN A JOB INTERVIEW.PSD */; };
+		AAC1CA241AE62CE100385455 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C94F1AE62CE100385455 /* Thumbs.db */; };
+		AAC1CA251AE62CE100385455 /* ChallengeSectionExample.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9501AE62CE100385455 /* ChallengeSectionExample.png */; };
+		AAC1CA261AE62CE100385455 /* ChallengeSectionFuture.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9511AE62CE100385455 /* ChallengeSectionFuture.png */; };
+		AAC1CA271AE62CE100385455 /* ChallengeSectionPast.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9521AE62CE100385455 /* ChallengeSectionPast.png */; };
+		AAC1CA281AE62CE100385455 /* ChallengeSectionPlayback.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9531AE62CE100385455 /* ChallengeSectionPlayback.png */; };
+		AAC1CA291AE62CE100385455 /* ChallengeSectionPlaybackWaiting.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9541AE62CE100385455 /* ChallengeSectionPlaybackWaiting.png */; };
+		AAC1CA2A1AE62CE100385455 /* ChallengeSectionPresent.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9551AE62CE100385455 /* ChallengeSectionPresent.png */; };
+		AAC1CA2B1AE62CE100385455 /* ChallengeSeries1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9571AE62CE100385455 /* ChallengeSeries1.png */; };
+		AAC1CA2C1AE62CE100385455 /* ChallengeSeries2.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9581AE62CE100385455 /* ChallengeSeries2.png */; };
+		AAC1CA2D1AE62CE100385455 /* ChallengeSeries3.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9591AE62CE100385455 /* ChallengeSeries3.png */; };
+		AAC1CA2E1AE62CE100385455 /* ChallengeSeries4.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C95A1AE62CE100385455 /* ChallengeSeries4.png */; };
+		AAC1CA2F1AE62CE100385455 /* ChallengeSeries5.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C95B1AE62CE100385455 /* ChallengeSeries5.png */; };
+		AAC1CA301AE62CE100385455 /* ChallengeSeries6.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C95C1AE62CE100385455 /* ChallengeSeries6.png */; };
+		AAC1CA311AE62CE100385455 /* ChallengeSeries7.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C95D1AE62CE100385455 /* ChallengeSeries7.png */; };
+		AAC1CA321AE62CE100385455 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C95E1AE62CE100385455 /* Thumbs.db */; };
+		AAC1CA331AE62CE100385455 /* ChallengeShareOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C95F1AE62CE100385455 /* ChallengeShareOff.png */; };
+		AAC1CA341AE62CE100385455 /* ChallengeShareOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9601AE62CE100385455 /* ChallengeShareOn.png */; };
+		AAC1CA351AE62CE100385455 /* ChallengeStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9611AE62CE100385455 /* ChallengeStrip.png */; };
+		AAC1CA361AE62CE100385455 /* ChooseSessionBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9621AE62CE100385455 /* ChooseSessionBackground.png */; };
+		AAC1CA371AE62CE100385455 /* CircleShape.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9631AE62CE100385455 /* CircleShape.png */; };
+		AAC1CA381AE62CE100385455 /* CloseCertifiedTab.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9641AE62CE100385455 /* CloseCertifiedTab.png */; };
+		AAC1CA391AE62CE100385455 /* CommentLikeBorder.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9651AE62CE100385455 /* CommentLikeBorder.png */; };
+		AAC1CA3A1AE62CE100385455 /* EducationLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9661AE62CE100385455 /* EducationLogo.png */; };
+		AAC1CA3B1AE62CE100385455 /* EmailLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9671AE62CE100385455 /* EmailLogo.png */; };
+		AAC1CA3C1AE62CE100385455 /* ExpertiseLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9681AE62CE100385455 /* ExpertiseLogo.png */; };
+		AAC1CA3D1AE62CE100385455 /* FollowCheckActive.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9691AE62CE100385455 /* FollowCheckActive.png */; };
+		AAC1CA3E1AE62CE100385455 /* FollowCheckInActive.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C96A1AE62CE100385455 /* FollowCheckInActive.png */; };
+		AAC1CA3F1AE62CE100385455 /* FollowingYouBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C96B1AE62CE100385455 /* FollowingYouBackground.png */; };
+		AAC1CA401AE62CE100385455 /* FollowLogoGrey.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C96C1AE62CE100385455 /* FollowLogoGrey.png */; };
+		AAC1CA411AE62CE100385455 /* FollowLogoOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C96D1AE62CE100385455 /* FollowLogoOff.png */; };
+		AAC1CA421AE62CE100385455 /* FollowLogoOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C96E1AE62CE100385455 /* FollowLogoOn.png */; };
+		AAC1CA431AE62CE100385455 /* FollowUnchecked.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C96F1AE62CE100385455 /* FollowUnchecked.png */; };
+		AAC1CA441AE62CE100385455 /* Footer.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9701AE62CE100385455 /* Footer.png */; };
+		AAC1CA451AE62CE100385455 /* ForgotBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9711AE62CE100385455 /* ForgotBackground.png */; };
+		AAC1CA461AE62CE100385455 /* ForgotBackground1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9721AE62CE100385455 /* ForgotBackground1.png */; };
+		AAC1CA471AE62CE100385455 /* ForwardInstructor.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9731AE62CE100385455 /* ForwardInstructor.png */; };
+		AAC1CA481AE62CE100385455 /* GetCertifiedTab.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9741AE62CE100385455 /* GetCertifiedTab.png */; };
+		AAC1CA491AE62CE100385455 /* GetCertifiedToday.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9751AE62CE100385455 /* GetCertifiedToday.png */; };
+		AAC1CA4A1AE62CE100385455 /* GetStartedButton.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9761AE62CE100385455 /* GetStartedButton.png */; };
+		AAC1CA4B1AE62CE100385455 /* HeaderDark.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9771AE62CE100385455 /* HeaderDark.png */; };
+		AAC1CA4C1AE62CE100385455 /* HeaderDarkBack.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9781AE62CE100385455 /* HeaderDarkBack.png */; };
+		AAC1CA4D1AE62CE100385455 /* HeaderDarkStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9791AE62CE100385455 /* HeaderDarkStrip.png */; };
+		AAC1CA4E1AE62CE100385455 /* HeaderLight.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C97A1AE62CE100385455 /* HeaderLight.png */; };
+		AAC1CA4F1AE62CE100385455 /* HeaderLightBack.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C97B1AE62CE100385455 /* HeaderLightBack.png */; };
+		AAC1CA501AE62CE100385455 /* HeaderLightBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C97C1AE62CE100385455 /* HeaderLightBackground.png */; };
+		AAC1CA511AE62CE100385455 /* HeaderLightStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C97D1AE62CE100385455 /* HeaderLightStrip.png */; };
+		AAC1CA521AE62CE100385455 /* IAmAnInstructor.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C97E1AE62CE100385455 /* IAmAnInstructor.png */; };
+		AAC1CA531AE62CE100385455 /* IleCertifiedLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C97F1AE62CE100385455 /* IleCertifiedLogo.png */; };
+		AAC1CA541AE62CE100385455 /* ILEGlobalCommunicatorScale.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9801AE62CE100385455 /* ILEGlobalCommunicatorScale.png */; };
+		AAC1CA551AE62CE100385455 /* ILELogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9811AE62CE100385455 /* ILELogo.png */; };
+		AAC1CA561AE62CE100385455 /* ILPAssessmentEnA1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9821AE62CE100385455 /* ILPAssessmentEnA1.png */; };
+		AAC1CA571AE62CE100385455 /* ILPAssessmentEnA2.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9831AE62CE100385455 /* ILPAssessmentEnA2.png */; };
+		AAC1CA581AE62CE100385455 /* ILPAssessmentEnB1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9841AE62CE100385455 /* ILPAssessmentEnB1.png */; };
+		AAC1CA591AE62CE100385455 /* ILPAssessmentEnB2.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9851AE62CE100385455 /* ILPAssessmentEnB2.png */; };
+		AAC1CA5A1AE62CE100385455 /* ILPAssessmentEnC1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9861AE62CE100385455 /* ILPAssessmentEnC1.png */; };
+		AAC1CA5B1AE62CE100385455 /* ILPAssessmentEnC2.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9871AE62CE100385455 /* ILPAssessmentEnC2.png */; };
+		AAC1CA5C1AE62CE100385455 /* ImageNameBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9881AE62CE100385455 /* ImageNameBackground.png */; };
+		AAC1CA5D1AE62CE100385455 /* Images3DFrame.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9891AE62CE100385455 /* Images3DFrame.png */; };
+		AAC1CA5E1AE62CE100385455 /* InActivePageSource.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C98A1AE62CE100385455 /* InActivePageSource.png */; };
+		AAC1CA5F1AE62CE100385455 /* InstructorFeedbackRecord.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C98B1AE62CE100385455 /* InstructorFeedbackRecord.png */; };
+		AAC1CA601AE62CE100385455 /* InstructorFullReviewBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C98C1AE62CE100385455 /* InstructorFullReviewBackground.png */; };
+		AAC1CA611AE62CE100385455 /* InstructorLevelA.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C98D1AE62CE100385455 /* InstructorLevelA.png */; };
+		AAC1CA621AE62CE100385455 /* InstructorLevelB.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C98E1AE62CE100385455 /* InstructorLevelB.png */; };
+		AAC1CA631AE62CE100385455 /* InstructorLevelC.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C98F1AE62CE100385455 /* InstructorLevelC.png */; };
+		AAC1CA641AE62CE100385455 /* InstructorOverallFeedback.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9901AE62CE100385455 /* InstructorOverallFeedback.png */; };
+		AAC1CA651AE62CE100385455 /* InstructorRating.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9911AE62CE100385455 /* InstructorRating.png */; };
+		AAC1CA661AE62CE100385455 /* InstructorReviewCheckedGreen.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9921AE62CE100385455 /* InstructorReviewCheckedGreen.png */; };
+		AAC1CA671AE62CE100385455 /* InstructorReviewCheckedRed.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9931AE62CE100385455 /* InstructorReviewCheckedRed.png */; };
+		AAC1CA681AE62CE100385455 /* InstructorReviewInactiveBox.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9941AE62CE100385455 /* InstructorReviewInactiveBox.png */; };
+		AAC1CA691AE62CE100385455 /* InstructorReviewOrange.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9951AE62CE100385455 /* InstructorReviewOrange.png */; };
+		AAC1CA6A1AE62CE100385455 /* InstructorReviewOrangeLarge.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9961AE62CE100385455 /* InstructorReviewOrangeLarge.png */; };
+		AAC1CA6B1AE62CE100385455 /* InstructorReviewPullDown.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9971AE62CE100385455 /* InstructorReviewPullDown.png */; };
+		AAC1CA6C1AE62CE100385455 /* InstructorReviewPullDownOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9981AE62CE100385455 /* InstructorReviewPullDownOff.png */; };
+		AAC1CA6D1AE62CE100385455 /* InstructorReviewStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9991AE62CE100385455 /* InstructorReviewStrip.png */; };
+		AAC1CA6E1AE62CE100385455 /* InstructorReviewUnchecked.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C99A1AE62CE100385455 /* InstructorReviewUnchecked.png */; };
+		AAC1CA6F1AE62CE100385455 /* InstructorSeeChallenge.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C99B1AE62CE100385455 /* InstructorSeeChallenge.png */; };
+		AAC1CA701AE62CE100385455 /* InstructorSeeChallengeOuter.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C99C1AE62CE100385455 /* InstructorSeeChallengeOuter.png */; };
+		AAC1CA711AE62CE100385455 /* IntroHome.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C99D1AE62CE100385455 /* IntroHome.png */; };
+		AAC1CA721AE62CE100385455 /* IntroPage1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C99E1AE62CE100385455 /* IntroPage1.png */; };
+		AAC1CA731AE62CE100385455 /* IntroPage1New.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C99F1AE62CE100385455 /* IntroPage1New.png */; };
+		AAC1CA741AE62CE100385455 /* IntroPage1New.PSD in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A01AE62CE100385455 /* IntroPage1New.PSD */; };
+		AAC1CA751AE62CE100385455 /* IntroPage2.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A11AE62CE100385455 /* IntroPage2.png */; };
+		AAC1CA761AE62CE100385455 /* IntroPage2New.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A21AE62CE100385455 /* IntroPage2New.png */; };
+		AAC1CA771AE62CE100385455 /* IntroPage2New.PSD in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A31AE62CE100385455 /* IntroPage2New.PSD */; };
+		AAC1CA781AE62CE100385455 /* IntroPage3.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A41AE62CE100385455 /* IntroPage3.png */; };
+		AAC1CA791AE62CE100385455 /* IntroPage3New.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A51AE62CE100385455 /* IntroPage3New.png */; };
+		AAC1CA7A1AE62CE100385455 /* IntroPage3New.PSD in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A61AE62CE100385455 /* IntroPage3New.PSD */; };
+		AAC1CA7B1AE62CE100385455 /* IvyPointsBanner.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A71AE62CE100385455 /* IvyPointsBanner.png */; };
+		AAC1CA7C1AE62CE100385455 /* LearningInterestLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A81AE62CE100385455 /* LearningInterestLogo.png */; };
+		AAC1CA7D1AE62CE100385455 /* LearningTargetLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9A91AE62CE100385455 /* LearningTargetLogo.png */; };
+		AAC1CA7E1AE62CE100385455 /* LiveCoachChallengeOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9AA1AE62CE100385455 /* LiveCoachChallengeOff.png */; };
+		AAC1CA7F1AE62CE100385455 /* LiveCoachChallengeOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9AB1AE62CE100385455 /* LiveCoachChallengeOn.png */; };
+		AAC1CA801AE62CE100385455 /* LiveCoachNow.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9AC1AE62CE100385455 /* LiveCoachNow.png */; };
+		AAC1CA811AE62CE100385455 /* LiveCoachOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9AD1AE62CE100385455 /* LiveCoachOff.png */; };
+		AAC1CA821AE62CE100385455 /* LiveCoachOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9AE1AE62CE100385455 /* LiveCoachOn.png */; };
+		AAC1CA831AE62CE100385455 /* LocationLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9AF1AE62CE100385455 /* LocationLogo.png */; };
+		AAC1CA841AE62CE100385455 /* LoginPageBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B01AE62CE100385455 /* LoginPageBackground.png */; };
+		AAC1CA851AE62CE100385455 /* LoginPageBackground1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B11AE62CE100385455 /* LoginPageBackground1.png */; };
+		AAC1CA861AE62CE100385455 /* LoginWithLinkedIn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B21AE62CE100385455 /* LoginWithLinkedIn.png */; };
+		AAC1CA871AE62CE100385455 /* LoginWithWeChat.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B31AE62CE100385455 /* LoginWithWeChat.png */; };
+		AAC1CA881AE62CE100385455 /* LogoB.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B41AE62CE100385455 /* LogoB.png */; };
+		AAC1CA891AE62CE100385455 /* MeHome.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B51AE62CE100385455 /* MeHome.png */; };
+		AAC1CA8A1AE62CE100385455 /* MenuBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B61AE62CE100385455 /* MenuBackground.png */; };
+		AAC1CA8B1AE62CE100385455 /* MeOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B71AE62CE100385455 /* MeOff.png */; };
+		AAC1CA8C1AE62CE100385455 /* MeOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B81AE62CE100385455 /* MeOn.png */; };
+		AAC1CA8D1AE62CE100385455 /* MobilePhoneLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9B91AE62CE100385455 /* MobilePhoneLogo.png */; };
+		AAC1CA8E1AE62CE100385455 /* OpenReviewPopupBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9BA1AE62CE100385455 /* OpenReviewPopupBackground.png */; };
+		AAC1CA8F1AE62CE100385455 /* OpenReviewShade.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9BB1AE62CE100385455 /* OpenReviewShade.png */; };
+		AAC1CA901AE62CE100385455 /* OtherInstructorListBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9BC1AE62CE100385455 /* OtherInstructorListBackground.png */; };
+		AAC1CA911AE62CE100385455 /* PasswordLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9BD1AE62CE100385455 /* PasswordLogo.png */; };
+		AAC1CA921AE62CE100385455 /* PillarsBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9BE1AE62CE100385455 /* PillarsBackground.png */; };
+		AAC1CA931AE62CE100385455 /* PillarVerticalStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9BF1AE62CE100385455 /* PillarVerticalStrip.png */; };
+		AAC1CA941AE62CE100385455 /* ProfileLogoOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C01AE62CE100385455 /* ProfileLogoOff.png */; };
+		AAC1CA951AE62CE100385455 /* ProfileLogoOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C11AE62CE100385455 /* ProfileLogoOn.png */; };
+		AAC1CA961AE62CE100385455 /* ProfileVerticalStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C21AE62CE100385455 /* ProfileVerticalStrip.png */; };
+		AAC1CA971AE62CE100385455 /* ProfileWindow.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C31AE62CE100385455 /* ProfileWindow.png */; };
+		AAC1CA981AE62CE100385455 /* RecommendedChallengeStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C41AE62CE100385455 /* RecommendedChallengeStrip.png */; };
+		AAC1CA991AE62CE100385455 /* RegisterBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C51AE62CE100385455 /* RegisterBackground.png */; };
+		AAC1CA9A1AE62CE100385455 /* RegisterWoman.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C61AE62CE100385455 /* RegisterWoman.png */; };
+		AAC1CA9B1AE62CE100385455 /* ReminderDaySelected.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C71AE62CE100385455 /* ReminderDaySelected.png */; };
+		AAC1CA9C1AE62CE100385455 /* ReminderDayUnSelected.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C81AE62CE100385455 /* ReminderDayUnSelected.png */; };
+		AAC1CA9D1AE62CE100385455 /* ReviewCloseUp.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9C91AE62CE100385455 /* ReviewCloseUp.png */; };
+		AAC1CA9E1AE62CE100385455 /* ReviewGreenStar.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9CA1AE62CE100385455 /* ReviewGreenStar.png */; };
+		AAC1CA9F1AE62CE100385455 /* ReviewInstructorUnknown.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9CB1AE62CE100385455 /* ReviewInstructorUnknown.png */; };
+		AAC1CAA01AE62CE100385455 /* ReviewPointAdded.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9CC1AE62CE100385455 /* ReviewPointAdded.png */; };
+		AAC1CAA11AE62CE100385455 /* ReviewPointDeducted.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9CD1AE62CE100385455 /* ReviewPointDeducted.png */; };
+		AAC1CAA21AE62CE100385455 /* ReviewReadLock.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9CE1AE62CE100385455 /* ReviewReadLock.png */; };
+		AAC1CAA31AE62CE100385455 /* ScheduledSession.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9CF1AE62CE100385455 /* ScheduledSession.png */; };
+		AAC1CAA41AE62CE100385455 /* ScheduleSession.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D01AE62CE100385455 /* ScheduleSession.png */; };
+		AAC1CAA51AE62CE100385455 /* ScheduleSessionLogoOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D11AE62CE100385455 /* ScheduleSessionLogoOff.png */; };
+		AAC1CAA61AE62CE100385455 /* ScheduleSessionLogoOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D21AE62CE100385455 /* ScheduleSessionLogoOn.png */; };
+		AAC1CAA71AE62CE100385455 /* SetLevelDone.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D31AE62CE100385455 /* SetLevelDone.png */; };
+		AAC1CAA81AE62CE100385455 /* SetLevelLater.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D41AE62CE100385455 /* SetLevelLater.png */; };
+		AAC1CAA91AE62CE100385455 /* SettingMenuBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D51AE62CE100385455 /* SettingMenuBackground.png */; };
+		AAC1CAAA1AE62CE100385455 /* SettingMenuButton.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D61AE62CE100385455 /* SettingMenuButton.png */; };
+		AAC1CAAB1AE62CE100385455 /* SettingsOff.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D71AE62CE100385455 /* SettingsOff.png */; };
+		AAC1CAAC1AE62CE100385455 /* SettingsOn.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D81AE62CE100385455 /* SettingsOn.png */; };
+		AAC1CAAD1AE62CE100385455 /* SettingsOn1.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9D91AE62CE100385455 /* SettingsOn1.png */; };
+		AAC1CAAE1AE62CE100385455 /* SpeakChinese.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9DA1AE62CE100385455 /* SpeakChinese.png */; };
+		AAC1CAAF1AE62CE100385455 /* SpeakEnglish.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9DB1AE62CE100385455 /* SpeakEnglish.png */; };
+		AAC1CAB01AE62CE100385455 /* StudentChallengeCommentMic.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9DC1AE62CE100385455 /* StudentChallengeCommentMic.png */; };
+		AAC1CAB11AE62CE100385455 /* StudentChallengeCommentOneLine.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9DD1AE62CE100385455 /* StudentChallengeCommentOneLine.png */; };
+		AAC1CAB21AE62CE100385455 /* StudentChallengeCommentSend.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9DE1AE62CE100385455 /* StudentChallengeCommentSend.png */; };
+		AAC1CAB31AE62CE100385455 /* StudentChallengeHeaderBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9DF1AE62CE100385455 /* StudentChallengeHeaderBackground.png */; };
+		AAC1CAB41AE62CE100385455 /* StudentOtherChallengeDivider.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9E01AE62CE100385455 /* StudentOtherChallengeDivider.png */; };
+		AAC1CAB51AE62CE100385455 /* StudentReviewPoint.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9E11AE62CE100385455 /* StudentReviewPoint.png */; };
+		AAC1CAB61AE62CE100385455 /* TextBoxFooter.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9E21AE62CE100385455 /* TextBoxFooter.png */; };
+		AAC1CAB71AE62CE100385455 /* Thumbs.db in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9E31AE62CE100385455 /* Thumbs.db */; };
+		AAC1CAB81AE62CE100385455 /* Tip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9E41AE62CE100385455 /* Tip.png */; };
+		AAC1CAB91AE62CE100385455 /* UserChallengeStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9E51AE62CE100385455 /* UserChallengeStrip.png */; };
+		AAC1CABA1AE62CE100385455 /* What'sHotActive.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9E61AE62CE100385455 /* What'sHotActive.png */; };
+		AAC1CABB1AE62CE100385455 /* What'sHotBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9E71AE62CE100385455 /* What'sHotBackground.png */; };
+		AAC1CABC1AE62CE100385455 /* What'sHotInActive.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC1C9E81AE62CE100385455 /* What'sHotInActive.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -571,6 +783,218 @@
 		8B6B30CC1AE130210026F3A8 /* challengeComImgFeedback@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "challengeComImgFeedback@2x.png"; sourceTree = "<group>"; };
 		8B6B30CF1AE138170026F3A8 /* ChallengeSeriesCompleteLiveCoachViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChallengeSeriesCompleteLiveCoachViewController.h; sourceTree = "<group>"; };
 		8B6B30D01AE138170026F3A8 /* ChallengeSeriesCompleteLiveCoachViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChallengeSeriesCompleteLiveCoachViewController.m; sourceTree = "<group>"; };
+		AAC1C9131AE62CE000385455 /* A1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = A1.png; sourceTree = "<group>"; };
+		AAC1C9141AE62CE000385455 /* A1MeaningBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = A1MeaningBackground.png; sourceTree = "<group>"; };
+		AAC1C9151AE62CE000385455 /* A1Strip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = A1Strip.png; sourceTree = "<group>"; };
+		AAC1C9161AE62CE000385455 /* A2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = A2.png; sourceTree = "<group>"; };
+		AAC1C9171AE62CE000385455 /* A2MeaningBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = A2MeaningBackground.png; sourceTree = "<group>"; };
+		AAC1C9181AE62CE000385455 /* A2Strip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = A2Strip.png; sourceTree = "<group>"; };
+		AAC1C9191AE62CE000385455 /* AboutMeLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AboutMeLogo.png; sourceTree = "<group>"; };
+		AAC1C91A1AE62CE000385455 /* ActivePageSource.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ActivePageSource.png; sourceTree = "<group>"; };
+		AAC1C91B1AE62CE000385455 /* ArrowUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ArrowUp.png; sourceTree = "<group>"; };
+		AAC1C91C1AE62CE000385455 /* AwardChallengeTaken.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AwardChallengeTaken.png; sourceTree = "<group>"; };
+		AAC1C91D1AE62CE000385455 /* AwardMostActive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AwardMostActive.png; sourceTree = "<group>"; };
+		AAC1C91E1AE62CE000385455 /* AwardMostFollowed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AwardMostFollowed.png; sourceTree = "<group>"; };
+		AAC1C91F1AE62CE000385455 /* AwardMostLiked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AwardMostLiked.png; sourceTree = "<group>"; };
+		AAC1C9201AE62CE000385455 /* AwardsLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AwardsLogo.png; sourceTree = "<group>"; };
+		AAC1C9211AE62CE000385455 /* AwardTopPercentage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AwardTopPercentage.png; sourceTree = "<group>"; };
+		AAC1C9221AE62CE000385455 /* B1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = B1.png; sourceTree = "<group>"; };
+		AAC1C9231AE62CE000385455 /* B1Strip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = B1Strip.png; sourceTree = "<group>"; };
+		AAC1C9241AE62CE000385455 /* B2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = B2.png; sourceTree = "<group>"; };
+		AAC1C9251AE62CE000385455 /* B2Strip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = B2Strip.png; sourceTree = "<group>"; };
+		AAC1C9261AE62CE000385455 /* ButtonOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonOff.png; sourceTree = "<group>"; };
+		AAC1C9271AE62CE000385455 /* ButtonOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonOn.png; sourceTree = "<group>"; };
+		AAC1C9281AE62CE000385455 /* BuyMoreButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BuyMoreButton.png; sourceTree = "<group>"; };
+		AAC1C9291AE62CE000385455 /* C1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C1.png; sourceTree = "<group>"; };
+		AAC1C92A1AE62CE000385455 /* C1Strip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C1Strip.png; sourceTree = "<group>"; };
+		AAC1C92B1AE62CE000385455 /* C2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C2.png; sourceTree = "<group>"; };
+		AAC1C92C1AE62CE000385455 /* C2Strip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C2Strip.png; sourceTree = "<group>"; };
+		AAC1C92D1AE62CE000385455 /* CallMyMobile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CallMyMobile.png; sourceTree = "<group>"; };
+		AAC1C92E1AE62CE000385455 /* CallWeChat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CallWeChat.png; sourceTree = "<group>"; };
+		AAC1C92F1AE62CE000385455 /* CarrerLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CarrerLogo.png; sourceTree = "<group>"; };
+		AAC1C9301AE62CE100385455 /* ChallengeCommentGrey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeCommentGrey.png; sourceTree = "<group>"; };
+		AAC1C9311AE62CE100385455 /* ChallengeCommentOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeCommentOff.png; sourceTree = "<group>"; };
+		AAC1C9321AE62CE100385455 /* ChallengeCommentOnBlue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeCommentOnBlue.png; sourceTree = "<group>"; };
+		AAC1C9331AE62CE100385455 /* ChallengeCommentOnOrange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeCommentOnOrange.png; sourceTree = "<group>"; };
+		AAC1C9341AE62CE100385455 /* ChallengeCommunityOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeCommunityOff.png; sourceTree = "<group>"; };
+		AAC1C9351AE62CE100385455 /* ChallengeCommunityOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeCommunityOn.png; sourceTree = "<group>"; };
+		AAC1C9361AE62CE100385455 /* ChallengeCompletedGraph.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeCompletedGraph.png; sourceTree = "<group>"; };
+		AAC1C9371AE62CE100385455 /* ChallengeCompletedOrange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeCompletedOrange.png; sourceTree = "<group>"; };
+		AAC1C9381AE62CE100385455 /* ChallengeExample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeExample.png; sourceTree = "<group>"; };
+		AAC1C9391AE62CE100385455 /* ChallengeGo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeGo.png; sourceTree = "<group>"; };
+		AAC1C93A1AE62CE100385455 /* ChallengeGrey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeGrey.png; sourceTree = "<group>"; };
+		AAC1C93B1AE62CE100385455 /* ChallengeGrey1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeGrey1.png; sourceTree = "<group>"; };
+		AAC1C93C1AE62CE100385455 /* ChallengeHeader.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeHeader.png; sourceTree = "<group>"; };
+		AAC1C93D1AE62CE100385455 /* ChallengeInstructorReview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeInstructorReview.png; sourceTree = "<group>"; };
+		AAC1C93E1AE62CE100385455 /* ChallengeLikeGrey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeLikeGrey.png; sourceTree = "<group>"; };
+		AAC1C93F1AE62CE100385455 /* ChallengeLikeWhite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeLikeWhite.png; sourceTree = "<group>"; };
+		AAC1C9401AE62CE100385455 /* ChallengeLikeYellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeLikeYellow.png; sourceTree = "<group>"; };
+		AAC1C9411AE62CE100385455 /* ChallengeMic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeMic.png; sourceTree = "<group>"; };
+		AAC1C9421AE62CE100385455 /* ChallengePart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengePart.png; sourceTree = "<group>"; };
+		AAC1C9431AE62CE100385455 /* ChallengePointEarnedBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengePointEarnedBackground.png; sourceTree = "<group>"; };
+		AAC1C9441AE62CE100385455 /* ChallengePointStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengePointStar.png; sourceTree = "<group>"; };
+		AAC1C9451AE62CE100385455 /* ChallengePointStar1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengePointStar1.png; sourceTree = "<group>"; };
+		AAC1C9471AE62CE100385455 /* AT A COCKTAIL PARTY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AT A COCKTAIL PARTY.png"; sourceTree = "<group>"; };
+		AAC1C9481AE62CE100385455 /* AT A COCKTAIL PARTY.PSD */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AT A COCKTAIL PARTY.PSD"; sourceTree = "<group>"; };
+		AAC1C9491AE62CE100385455 /* AT THE RECEPTION DESK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AT THE RECEPTION DESK.png"; sourceTree = "<group>"; };
+		AAC1C94A1AE62CE100385455 /* AT THE RECEPTION DESK.PSD */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AT THE RECEPTION DESK.PSD"; sourceTree = "<group>"; };
+		AAC1C94B1AE62CE100385455 /* AT THE START OF A PRESENTATION.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AT THE START OF A PRESENTATION.png"; sourceTree = "<group>"; };
+		AAC1C94C1AE62CE100385455 /* AT THE START OF A PRESENTATION.PSD */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AT THE START OF A PRESENTATION.PSD"; sourceTree = "<group>"; };
+		AAC1C94D1AE62CE100385455 /* IN A JOB INTERVIEW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IN A JOB INTERVIEW.png"; sourceTree = "<group>"; };
+		AAC1C94E1AE62CE100385455 /* IN A JOB INTERVIEW.PSD */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IN A JOB INTERVIEW.PSD"; sourceTree = "<group>"; };
+		AAC1C94F1AE62CE100385455 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		AAC1C9501AE62CE100385455 /* ChallengeSectionExample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSectionExample.png; sourceTree = "<group>"; };
+		AAC1C9511AE62CE100385455 /* ChallengeSectionFuture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSectionFuture.png; sourceTree = "<group>"; };
+		AAC1C9521AE62CE100385455 /* ChallengeSectionPast.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSectionPast.png; sourceTree = "<group>"; };
+		AAC1C9531AE62CE100385455 /* ChallengeSectionPlayback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSectionPlayback.png; sourceTree = "<group>"; };
+		AAC1C9541AE62CE100385455 /* ChallengeSectionPlaybackWaiting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSectionPlaybackWaiting.png; sourceTree = "<group>"; };
+		AAC1C9551AE62CE100385455 /* ChallengeSectionPresent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSectionPresent.png; sourceTree = "<group>"; };
+		AAC1C9571AE62CE100385455 /* ChallengeSeries1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSeries1.png; sourceTree = "<group>"; };
+		AAC1C9581AE62CE100385455 /* ChallengeSeries2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSeries2.png; sourceTree = "<group>"; };
+		AAC1C9591AE62CE100385455 /* ChallengeSeries3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSeries3.png; sourceTree = "<group>"; };
+		AAC1C95A1AE62CE100385455 /* ChallengeSeries4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSeries4.png; sourceTree = "<group>"; };
+		AAC1C95B1AE62CE100385455 /* ChallengeSeries5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSeries5.png; sourceTree = "<group>"; };
+		AAC1C95C1AE62CE100385455 /* ChallengeSeries6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSeries6.png; sourceTree = "<group>"; };
+		AAC1C95D1AE62CE100385455 /* ChallengeSeries7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeSeries7.png; sourceTree = "<group>"; };
+		AAC1C95E1AE62CE100385455 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		AAC1C95F1AE62CE100385455 /* ChallengeShareOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeShareOff.png; sourceTree = "<group>"; };
+		AAC1C9601AE62CE100385455 /* ChallengeShareOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeShareOn.png; sourceTree = "<group>"; };
+		AAC1C9611AE62CE100385455 /* ChallengeStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChallengeStrip.png; sourceTree = "<group>"; };
+		AAC1C9621AE62CE100385455 /* ChooseSessionBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChooseSessionBackground.png; sourceTree = "<group>"; };
+		AAC1C9631AE62CE100385455 /* CircleShape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CircleShape.png; sourceTree = "<group>"; };
+		AAC1C9641AE62CE100385455 /* CloseCertifiedTab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CloseCertifiedTab.png; sourceTree = "<group>"; };
+		AAC1C9651AE62CE100385455 /* CommentLikeBorder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CommentLikeBorder.png; sourceTree = "<group>"; };
+		AAC1C9661AE62CE100385455 /* EducationLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EducationLogo.png; sourceTree = "<group>"; };
+		AAC1C9671AE62CE100385455 /* EmailLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EmailLogo.png; sourceTree = "<group>"; };
+		AAC1C9681AE62CE100385455 /* ExpertiseLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ExpertiseLogo.png; sourceTree = "<group>"; };
+		AAC1C9691AE62CE100385455 /* FollowCheckActive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FollowCheckActive.png; sourceTree = "<group>"; };
+		AAC1C96A1AE62CE100385455 /* FollowCheckInActive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FollowCheckInActive.png; sourceTree = "<group>"; };
+		AAC1C96B1AE62CE100385455 /* FollowingYouBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FollowingYouBackground.png; sourceTree = "<group>"; };
+		AAC1C96C1AE62CE100385455 /* FollowLogoGrey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FollowLogoGrey.png; sourceTree = "<group>"; };
+		AAC1C96D1AE62CE100385455 /* FollowLogoOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FollowLogoOff.png; sourceTree = "<group>"; };
+		AAC1C96E1AE62CE100385455 /* FollowLogoOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FollowLogoOn.png; sourceTree = "<group>"; };
+		AAC1C96F1AE62CE100385455 /* FollowUnchecked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FollowUnchecked.png; sourceTree = "<group>"; };
+		AAC1C9701AE62CE100385455 /* Footer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Footer.png; sourceTree = "<group>"; };
+		AAC1C9711AE62CE100385455 /* ForgotBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ForgotBackground.png; sourceTree = "<group>"; };
+		AAC1C9721AE62CE100385455 /* ForgotBackground1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ForgotBackground1.png; sourceTree = "<group>"; };
+		AAC1C9731AE62CE100385455 /* ForwardInstructor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ForwardInstructor.png; sourceTree = "<group>"; };
+		AAC1C9741AE62CE100385455 /* GetCertifiedTab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GetCertifiedTab.png; sourceTree = "<group>"; };
+		AAC1C9751AE62CE100385455 /* GetCertifiedToday.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GetCertifiedToday.png; sourceTree = "<group>"; };
+		AAC1C9761AE62CE100385455 /* GetStartedButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GetStartedButton.png; sourceTree = "<group>"; };
+		AAC1C9771AE62CE100385455 /* HeaderDark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HeaderDark.png; sourceTree = "<group>"; };
+		AAC1C9781AE62CE100385455 /* HeaderDarkBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HeaderDarkBack.png; sourceTree = "<group>"; };
+		AAC1C9791AE62CE100385455 /* HeaderDarkStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HeaderDarkStrip.png; sourceTree = "<group>"; };
+		AAC1C97A1AE62CE100385455 /* HeaderLight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HeaderLight.png; sourceTree = "<group>"; };
+		AAC1C97B1AE62CE100385455 /* HeaderLightBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HeaderLightBack.png; sourceTree = "<group>"; };
+		AAC1C97C1AE62CE100385455 /* HeaderLightBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HeaderLightBackground.png; sourceTree = "<group>"; };
+		AAC1C97D1AE62CE100385455 /* HeaderLightStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HeaderLightStrip.png; sourceTree = "<group>"; };
+		AAC1C97E1AE62CE100385455 /* IAmAnInstructor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IAmAnInstructor.png; sourceTree = "<group>"; };
+		AAC1C97F1AE62CE100385455 /* IleCertifiedLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IleCertifiedLogo.png; sourceTree = "<group>"; };
+		AAC1C9801AE62CE100385455 /* ILEGlobalCommunicatorScale.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ILEGlobalCommunicatorScale.png; sourceTree = "<group>"; };
+		AAC1C9811AE62CE100385455 /* ILELogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ILELogo.png; sourceTree = "<group>"; };
+		AAC1C9821AE62CE100385455 /* ILPAssessmentEnA1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ILPAssessmentEnA1.png; sourceTree = "<group>"; };
+		AAC1C9831AE62CE100385455 /* ILPAssessmentEnA2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ILPAssessmentEnA2.png; sourceTree = "<group>"; };
+		AAC1C9841AE62CE100385455 /* ILPAssessmentEnB1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ILPAssessmentEnB1.png; sourceTree = "<group>"; };
+		AAC1C9851AE62CE100385455 /* ILPAssessmentEnB2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ILPAssessmentEnB2.png; sourceTree = "<group>"; };
+		AAC1C9861AE62CE100385455 /* ILPAssessmentEnC1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ILPAssessmentEnC1.png; sourceTree = "<group>"; };
+		AAC1C9871AE62CE100385455 /* ILPAssessmentEnC2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ILPAssessmentEnC2.png; sourceTree = "<group>"; };
+		AAC1C9881AE62CE100385455 /* ImageNameBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ImageNameBackground.png; sourceTree = "<group>"; };
+		AAC1C9891AE62CE100385455 /* Images3DFrame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Images3DFrame.png; sourceTree = "<group>"; };
+		AAC1C98A1AE62CE100385455 /* InActivePageSource.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InActivePageSource.png; sourceTree = "<group>"; };
+		AAC1C98B1AE62CE100385455 /* InstructorFeedbackRecord.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorFeedbackRecord.png; sourceTree = "<group>"; };
+		AAC1C98C1AE62CE100385455 /* InstructorFullReviewBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorFullReviewBackground.png; sourceTree = "<group>"; };
+		AAC1C98D1AE62CE100385455 /* InstructorLevelA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorLevelA.png; sourceTree = "<group>"; };
+		AAC1C98E1AE62CE100385455 /* InstructorLevelB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorLevelB.png; sourceTree = "<group>"; };
+		AAC1C98F1AE62CE100385455 /* InstructorLevelC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorLevelC.png; sourceTree = "<group>"; };
+		AAC1C9901AE62CE100385455 /* InstructorOverallFeedback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorOverallFeedback.png; sourceTree = "<group>"; };
+		AAC1C9911AE62CE100385455 /* InstructorRating.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorRating.png; sourceTree = "<group>"; };
+		AAC1C9921AE62CE100385455 /* InstructorReviewCheckedGreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorReviewCheckedGreen.png; sourceTree = "<group>"; };
+		AAC1C9931AE62CE100385455 /* InstructorReviewCheckedRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorReviewCheckedRed.png; sourceTree = "<group>"; };
+		AAC1C9941AE62CE100385455 /* InstructorReviewInactiveBox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorReviewInactiveBox.png; sourceTree = "<group>"; };
+		AAC1C9951AE62CE100385455 /* InstructorReviewOrange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorReviewOrange.png; sourceTree = "<group>"; };
+		AAC1C9961AE62CE100385455 /* InstructorReviewOrangeLarge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorReviewOrangeLarge.png; sourceTree = "<group>"; };
+		AAC1C9971AE62CE100385455 /* InstructorReviewPullDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorReviewPullDown.png; sourceTree = "<group>"; };
+		AAC1C9981AE62CE100385455 /* InstructorReviewPullDownOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorReviewPullDownOff.png; sourceTree = "<group>"; };
+		AAC1C9991AE62CE100385455 /* InstructorReviewStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorReviewStrip.png; sourceTree = "<group>"; };
+		AAC1C99A1AE62CE100385455 /* InstructorReviewUnchecked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorReviewUnchecked.png; sourceTree = "<group>"; };
+		AAC1C99B1AE62CE100385455 /* InstructorSeeChallenge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorSeeChallenge.png; sourceTree = "<group>"; };
+		AAC1C99C1AE62CE100385455 /* InstructorSeeChallengeOuter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InstructorSeeChallengeOuter.png; sourceTree = "<group>"; };
+		AAC1C99D1AE62CE100385455 /* IntroHome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IntroHome.png; sourceTree = "<group>"; };
+		AAC1C99E1AE62CE100385455 /* IntroPage1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IntroPage1.png; sourceTree = "<group>"; };
+		AAC1C99F1AE62CE100385455 /* IntroPage1New.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IntroPage1New.png; sourceTree = "<group>"; };
+		AAC1C9A01AE62CE100385455 /* IntroPage1New.PSD */ = {isa = PBXFileReference; lastKnownFileType = file; path = IntroPage1New.PSD; sourceTree = "<group>"; };
+		AAC1C9A11AE62CE100385455 /* IntroPage2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IntroPage2.png; sourceTree = "<group>"; };
+		AAC1C9A21AE62CE100385455 /* IntroPage2New.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IntroPage2New.png; sourceTree = "<group>"; };
+		AAC1C9A31AE62CE100385455 /* IntroPage2New.PSD */ = {isa = PBXFileReference; lastKnownFileType = file; path = IntroPage2New.PSD; sourceTree = "<group>"; };
+		AAC1C9A41AE62CE100385455 /* IntroPage3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IntroPage3.png; sourceTree = "<group>"; };
+		AAC1C9A51AE62CE100385455 /* IntroPage3New.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IntroPage3New.png; sourceTree = "<group>"; };
+		AAC1C9A61AE62CE100385455 /* IntroPage3New.PSD */ = {isa = PBXFileReference; lastKnownFileType = file; path = IntroPage3New.PSD; sourceTree = "<group>"; };
+		AAC1C9A71AE62CE100385455 /* IvyPointsBanner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IvyPointsBanner.png; sourceTree = "<group>"; };
+		AAC1C9A81AE62CE100385455 /* LearningInterestLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LearningInterestLogo.png; sourceTree = "<group>"; };
+		AAC1C9A91AE62CE100385455 /* LearningTargetLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LearningTargetLogo.png; sourceTree = "<group>"; };
+		AAC1C9AA1AE62CE100385455 /* LiveCoachChallengeOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LiveCoachChallengeOff.png; sourceTree = "<group>"; };
+		AAC1C9AB1AE62CE100385455 /* LiveCoachChallengeOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LiveCoachChallengeOn.png; sourceTree = "<group>"; };
+		AAC1C9AC1AE62CE100385455 /* LiveCoachNow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LiveCoachNow.png; sourceTree = "<group>"; };
+		AAC1C9AD1AE62CE100385455 /* LiveCoachOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LiveCoachOff.png; sourceTree = "<group>"; };
+		AAC1C9AE1AE62CE100385455 /* LiveCoachOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LiveCoachOn.png; sourceTree = "<group>"; };
+		AAC1C9AF1AE62CE100385455 /* LocationLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LocationLogo.png; sourceTree = "<group>"; };
+		AAC1C9B01AE62CE100385455 /* LoginPageBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LoginPageBackground.png; sourceTree = "<group>"; };
+		AAC1C9B11AE62CE100385455 /* LoginPageBackground1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LoginPageBackground1.png; sourceTree = "<group>"; };
+		AAC1C9B21AE62CE100385455 /* LoginWithLinkedIn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LoginWithLinkedIn.png; sourceTree = "<group>"; };
+		AAC1C9B31AE62CE100385455 /* LoginWithWeChat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LoginWithWeChat.png; sourceTree = "<group>"; };
+		AAC1C9B41AE62CE100385455 /* LogoB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LogoB.png; sourceTree = "<group>"; };
+		AAC1C9B51AE62CE100385455 /* MeHome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MeHome.png; sourceTree = "<group>"; };
+		AAC1C9B61AE62CE100385455 /* MenuBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MenuBackground.png; sourceTree = "<group>"; };
+		AAC1C9B71AE62CE100385455 /* MeOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MeOff.png; sourceTree = "<group>"; };
+		AAC1C9B81AE62CE100385455 /* MeOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MeOn.png; sourceTree = "<group>"; };
+		AAC1C9B91AE62CE100385455 /* MobilePhoneLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MobilePhoneLogo.png; sourceTree = "<group>"; };
+		AAC1C9BA1AE62CE100385455 /* OpenReviewPopupBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OpenReviewPopupBackground.png; sourceTree = "<group>"; };
+		AAC1C9BB1AE62CE100385455 /* OpenReviewShade.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OpenReviewShade.png; sourceTree = "<group>"; };
+		AAC1C9BC1AE62CE100385455 /* OtherInstructorListBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OtherInstructorListBackground.png; sourceTree = "<group>"; };
+		AAC1C9BD1AE62CE100385455 /* PasswordLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PasswordLogo.png; sourceTree = "<group>"; };
+		AAC1C9BE1AE62CE100385455 /* PillarsBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PillarsBackground.png; sourceTree = "<group>"; };
+		AAC1C9BF1AE62CE100385455 /* PillarVerticalStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PillarVerticalStrip.png; sourceTree = "<group>"; };
+		AAC1C9C01AE62CE100385455 /* ProfileLogoOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ProfileLogoOff.png; sourceTree = "<group>"; };
+		AAC1C9C11AE62CE100385455 /* ProfileLogoOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ProfileLogoOn.png; sourceTree = "<group>"; };
+		AAC1C9C21AE62CE100385455 /* ProfileVerticalStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ProfileVerticalStrip.png; sourceTree = "<group>"; };
+		AAC1C9C31AE62CE100385455 /* ProfileWindow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ProfileWindow.png; sourceTree = "<group>"; };
+		AAC1C9C41AE62CE100385455 /* RecommendedChallengeStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RecommendedChallengeStrip.png; sourceTree = "<group>"; };
+		AAC1C9C51AE62CE100385455 /* RegisterBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RegisterBackground.png; sourceTree = "<group>"; };
+		AAC1C9C61AE62CE100385455 /* RegisterWoman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RegisterWoman.png; sourceTree = "<group>"; };
+		AAC1C9C71AE62CE100385455 /* ReminderDaySelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ReminderDaySelected.png; sourceTree = "<group>"; };
+		AAC1C9C81AE62CE100385455 /* ReminderDayUnSelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ReminderDayUnSelected.png; sourceTree = "<group>"; };
+		AAC1C9C91AE62CE100385455 /* ReviewCloseUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ReviewCloseUp.png; sourceTree = "<group>"; };
+		AAC1C9CA1AE62CE100385455 /* ReviewGreenStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ReviewGreenStar.png; sourceTree = "<group>"; };
+		AAC1C9CB1AE62CE100385455 /* ReviewInstructorUnknown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ReviewInstructorUnknown.png; sourceTree = "<group>"; };
+		AAC1C9CC1AE62CE100385455 /* ReviewPointAdded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ReviewPointAdded.png; sourceTree = "<group>"; };
+		AAC1C9CD1AE62CE100385455 /* ReviewPointDeducted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ReviewPointDeducted.png; sourceTree = "<group>"; };
+		AAC1C9CE1AE62CE100385455 /* ReviewReadLock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ReviewReadLock.png; sourceTree = "<group>"; };
+		AAC1C9CF1AE62CE100385455 /* ScheduledSession.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScheduledSession.png; sourceTree = "<group>"; };
+		AAC1C9D01AE62CE100385455 /* ScheduleSession.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScheduleSession.png; sourceTree = "<group>"; };
+		AAC1C9D11AE62CE100385455 /* ScheduleSessionLogoOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScheduleSessionLogoOff.png; sourceTree = "<group>"; };
+		AAC1C9D21AE62CE100385455 /* ScheduleSessionLogoOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScheduleSessionLogoOn.png; sourceTree = "<group>"; };
+		AAC1C9D31AE62CE100385455 /* SetLevelDone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SetLevelDone.png; sourceTree = "<group>"; };
+		AAC1C9D41AE62CE100385455 /* SetLevelLater.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SetLevelLater.png; sourceTree = "<group>"; };
+		AAC1C9D51AE62CE100385455 /* SettingMenuBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SettingMenuBackground.png; sourceTree = "<group>"; };
+		AAC1C9D61AE62CE100385455 /* SettingMenuButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SettingMenuButton.png; sourceTree = "<group>"; };
+		AAC1C9D71AE62CE100385455 /* SettingsOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SettingsOff.png; sourceTree = "<group>"; };
+		AAC1C9D81AE62CE100385455 /* SettingsOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SettingsOn.png; sourceTree = "<group>"; };
+		AAC1C9D91AE62CE100385455 /* SettingsOn1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SettingsOn1.png; sourceTree = "<group>"; };
+		AAC1C9DA1AE62CE100385455 /* SpeakChinese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SpeakChinese.png; sourceTree = "<group>"; };
+		AAC1C9DB1AE62CE100385455 /* SpeakEnglish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SpeakEnglish.png; sourceTree = "<group>"; };
+		AAC1C9DC1AE62CE100385455 /* StudentChallengeCommentMic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StudentChallengeCommentMic.png; sourceTree = "<group>"; };
+		AAC1C9DD1AE62CE100385455 /* StudentChallengeCommentOneLine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StudentChallengeCommentOneLine.png; sourceTree = "<group>"; };
+		AAC1C9DE1AE62CE100385455 /* StudentChallengeCommentSend.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StudentChallengeCommentSend.png; sourceTree = "<group>"; };
+		AAC1C9DF1AE62CE100385455 /* StudentChallengeHeaderBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StudentChallengeHeaderBackground.png; sourceTree = "<group>"; };
+		AAC1C9E01AE62CE100385455 /* StudentOtherChallengeDivider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StudentOtherChallengeDivider.png; sourceTree = "<group>"; };
+		AAC1C9E11AE62CE100385455 /* StudentReviewPoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StudentReviewPoint.png; sourceTree = "<group>"; };
+		AAC1C9E21AE62CE100385455 /* TextBoxFooter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TextBoxFooter.png; sourceTree = "<group>"; };
+		AAC1C9E31AE62CE100385455 /* Thumbs.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = Thumbs.db; sourceTree = "<group>"; };
+		AAC1C9E41AE62CE100385455 /* Tip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tip.png; sourceTree = "<group>"; };
+		AAC1C9E51AE62CE100385455 /* UserChallengeStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UserChallengeStrip.png; sourceTree = "<group>"; };
+		AAC1C9E61AE62CE100385455 /* What'sHotActive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "What'sHotActive.png"; sourceTree = "<group>"; };
+		AAC1C9E71AE62CE100385455 /* What'sHotBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "What'sHotBackground.png"; sourceTree = "<group>"; };
+		AAC1C9E81AE62CE100385455 /* What'sHotInActive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "What'sHotInActive.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -861,6 +1285,7 @@
 		5D60ABA31ABC7C4700AA4453 = {
 			isa = PBXGroup;
 			children = (
+				AAC1C9121AE62CE000385455 /* ILEChallengerImages */,
 				5D60ABAE1ABC7C4800AA4453 /* ILE */,
 				5D60ABC81ABC7C4900AA4453 /* ILETests */,
 				5D60ABAD1ABC7C4800AA4453 /* Products */,
@@ -1003,6 +1428,242 @@
 			name = "Tab Icons";
 			sourceTree = "<group>";
 		};
+		AAC1C9121AE62CE000385455 /* ILEChallengerImages */ = {
+			isa = PBXGroup;
+			children = (
+				AAC1C9131AE62CE000385455 /* A1.png */,
+				AAC1C9141AE62CE000385455 /* A1MeaningBackground.png */,
+				AAC1C9151AE62CE000385455 /* A1Strip.png */,
+				AAC1C9161AE62CE000385455 /* A2.png */,
+				AAC1C9171AE62CE000385455 /* A2MeaningBackground.png */,
+				AAC1C9181AE62CE000385455 /* A2Strip.png */,
+				AAC1C9191AE62CE000385455 /* AboutMeLogo.png */,
+				AAC1C91A1AE62CE000385455 /* ActivePageSource.png */,
+				AAC1C91B1AE62CE000385455 /* ArrowUp.png */,
+				AAC1C91C1AE62CE000385455 /* AwardChallengeTaken.png */,
+				AAC1C91D1AE62CE000385455 /* AwardMostActive.png */,
+				AAC1C91E1AE62CE000385455 /* AwardMostFollowed.png */,
+				AAC1C91F1AE62CE000385455 /* AwardMostLiked.png */,
+				AAC1C9201AE62CE000385455 /* AwardsLogo.png */,
+				AAC1C9211AE62CE000385455 /* AwardTopPercentage.png */,
+				AAC1C9221AE62CE000385455 /* B1.png */,
+				AAC1C9231AE62CE000385455 /* B1Strip.png */,
+				AAC1C9241AE62CE000385455 /* B2.png */,
+				AAC1C9251AE62CE000385455 /* B2Strip.png */,
+				AAC1C9261AE62CE000385455 /* ButtonOff.png */,
+				AAC1C9271AE62CE000385455 /* ButtonOn.png */,
+				AAC1C9281AE62CE000385455 /* BuyMoreButton.png */,
+				AAC1C9291AE62CE000385455 /* C1.png */,
+				AAC1C92A1AE62CE000385455 /* C1Strip.png */,
+				AAC1C92B1AE62CE000385455 /* C2.png */,
+				AAC1C92C1AE62CE000385455 /* C2Strip.png */,
+				AAC1C92D1AE62CE000385455 /* CallMyMobile.png */,
+				AAC1C92E1AE62CE000385455 /* CallWeChat.png */,
+				AAC1C92F1AE62CE000385455 /* CarrerLogo.png */,
+				AAC1C9301AE62CE100385455 /* ChallengeCommentGrey.png */,
+				AAC1C9311AE62CE100385455 /* ChallengeCommentOff.png */,
+				AAC1C9321AE62CE100385455 /* ChallengeCommentOnBlue.png */,
+				AAC1C9331AE62CE100385455 /* ChallengeCommentOnOrange.png */,
+				AAC1C9341AE62CE100385455 /* ChallengeCommunityOff.png */,
+				AAC1C9351AE62CE100385455 /* ChallengeCommunityOn.png */,
+				AAC1C9361AE62CE100385455 /* ChallengeCompletedGraph.png */,
+				AAC1C9371AE62CE100385455 /* ChallengeCompletedOrange.png */,
+				AAC1C9381AE62CE100385455 /* ChallengeExample.png */,
+				AAC1C9391AE62CE100385455 /* ChallengeGo.png */,
+				AAC1C93A1AE62CE100385455 /* ChallengeGrey.png */,
+				AAC1C93B1AE62CE100385455 /* ChallengeGrey1.png */,
+				AAC1C93C1AE62CE100385455 /* ChallengeHeader.png */,
+				AAC1C93D1AE62CE100385455 /* ChallengeInstructorReview.png */,
+				AAC1C93E1AE62CE100385455 /* ChallengeLikeGrey.png */,
+				AAC1C93F1AE62CE100385455 /* ChallengeLikeWhite.png */,
+				AAC1C9401AE62CE100385455 /* ChallengeLikeYellow.png */,
+				AAC1C9411AE62CE100385455 /* ChallengeMic.png */,
+				AAC1C9421AE62CE100385455 /* ChallengePart.png */,
+				AAC1C9431AE62CE100385455 /* ChallengePointEarnedBackground.png */,
+				AAC1C9441AE62CE100385455 /* ChallengePointStar.png */,
+				AAC1C9451AE62CE100385455 /* ChallengePointStar1.png */,
+				AAC1C9461AE62CE100385455 /* Challenges */,
+				AAC1C9501AE62CE100385455 /* ChallengeSectionExample.png */,
+				AAC1C9511AE62CE100385455 /* ChallengeSectionFuture.png */,
+				AAC1C9521AE62CE100385455 /* ChallengeSectionPast.png */,
+				AAC1C9531AE62CE100385455 /* ChallengeSectionPlayback.png */,
+				AAC1C9541AE62CE100385455 /* ChallengeSectionPlaybackWaiting.png */,
+				AAC1C9551AE62CE100385455 /* ChallengeSectionPresent.png */,
+				AAC1C9561AE62CE100385455 /* ChallengeSeries */,
+				AAC1C95F1AE62CE100385455 /* ChallengeShareOff.png */,
+				AAC1C9601AE62CE100385455 /* ChallengeShareOn.png */,
+				AAC1C9611AE62CE100385455 /* ChallengeStrip.png */,
+				AAC1C9621AE62CE100385455 /* ChooseSessionBackground.png */,
+				AAC1C9631AE62CE100385455 /* CircleShape.png */,
+				AAC1C9641AE62CE100385455 /* CloseCertifiedTab.png */,
+				AAC1C9651AE62CE100385455 /* CommentLikeBorder.png */,
+				AAC1C9661AE62CE100385455 /* EducationLogo.png */,
+				AAC1C9671AE62CE100385455 /* EmailLogo.png */,
+				AAC1C9681AE62CE100385455 /* ExpertiseLogo.png */,
+				AAC1C9691AE62CE100385455 /* FollowCheckActive.png */,
+				AAC1C96A1AE62CE100385455 /* FollowCheckInActive.png */,
+				AAC1C96B1AE62CE100385455 /* FollowingYouBackground.png */,
+				AAC1C96C1AE62CE100385455 /* FollowLogoGrey.png */,
+				AAC1C96D1AE62CE100385455 /* FollowLogoOff.png */,
+				AAC1C96E1AE62CE100385455 /* FollowLogoOn.png */,
+				AAC1C96F1AE62CE100385455 /* FollowUnchecked.png */,
+				AAC1C9701AE62CE100385455 /* Footer.png */,
+				AAC1C9711AE62CE100385455 /* ForgotBackground.png */,
+				AAC1C9721AE62CE100385455 /* ForgotBackground1.png */,
+				AAC1C9731AE62CE100385455 /* ForwardInstructor.png */,
+				AAC1C9741AE62CE100385455 /* GetCertifiedTab.png */,
+				AAC1C9751AE62CE100385455 /* GetCertifiedToday.png */,
+				AAC1C9761AE62CE100385455 /* GetStartedButton.png */,
+				AAC1C9771AE62CE100385455 /* HeaderDark.png */,
+				AAC1C9781AE62CE100385455 /* HeaderDarkBack.png */,
+				AAC1C9791AE62CE100385455 /* HeaderDarkStrip.png */,
+				AAC1C97A1AE62CE100385455 /* HeaderLight.png */,
+				AAC1C97B1AE62CE100385455 /* HeaderLightBack.png */,
+				AAC1C97C1AE62CE100385455 /* HeaderLightBackground.png */,
+				AAC1C97D1AE62CE100385455 /* HeaderLightStrip.png */,
+				AAC1C97E1AE62CE100385455 /* IAmAnInstructor.png */,
+				AAC1C97F1AE62CE100385455 /* IleCertifiedLogo.png */,
+				AAC1C9801AE62CE100385455 /* ILEGlobalCommunicatorScale.png */,
+				AAC1C9811AE62CE100385455 /* ILELogo.png */,
+				AAC1C9821AE62CE100385455 /* ILPAssessmentEnA1.png */,
+				AAC1C9831AE62CE100385455 /* ILPAssessmentEnA2.png */,
+				AAC1C9841AE62CE100385455 /* ILPAssessmentEnB1.png */,
+				AAC1C9851AE62CE100385455 /* ILPAssessmentEnB2.png */,
+				AAC1C9861AE62CE100385455 /* ILPAssessmentEnC1.png */,
+				AAC1C9871AE62CE100385455 /* ILPAssessmentEnC2.png */,
+				AAC1C9881AE62CE100385455 /* ImageNameBackground.png */,
+				AAC1C9891AE62CE100385455 /* Images3DFrame.png */,
+				AAC1C98A1AE62CE100385455 /* InActivePageSource.png */,
+				AAC1C98B1AE62CE100385455 /* InstructorFeedbackRecord.png */,
+				AAC1C98C1AE62CE100385455 /* InstructorFullReviewBackground.png */,
+				AAC1C98D1AE62CE100385455 /* InstructorLevelA.png */,
+				AAC1C98E1AE62CE100385455 /* InstructorLevelB.png */,
+				AAC1C98F1AE62CE100385455 /* InstructorLevelC.png */,
+				AAC1C9901AE62CE100385455 /* InstructorOverallFeedback.png */,
+				AAC1C9911AE62CE100385455 /* InstructorRating.png */,
+				AAC1C9921AE62CE100385455 /* InstructorReviewCheckedGreen.png */,
+				AAC1C9931AE62CE100385455 /* InstructorReviewCheckedRed.png */,
+				AAC1C9941AE62CE100385455 /* InstructorReviewInactiveBox.png */,
+				AAC1C9951AE62CE100385455 /* InstructorReviewOrange.png */,
+				AAC1C9961AE62CE100385455 /* InstructorReviewOrangeLarge.png */,
+				AAC1C9971AE62CE100385455 /* InstructorReviewPullDown.png */,
+				AAC1C9981AE62CE100385455 /* InstructorReviewPullDownOff.png */,
+				AAC1C9991AE62CE100385455 /* InstructorReviewStrip.png */,
+				AAC1C99A1AE62CE100385455 /* InstructorReviewUnchecked.png */,
+				AAC1C99B1AE62CE100385455 /* InstructorSeeChallenge.png */,
+				AAC1C99C1AE62CE100385455 /* InstructorSeeChallengeOuter.png */,
+				AAC1C99D1AE62CE100385455 /* IntroHome.png */,
+				AAC1C99E1AE62CE100385455 /* IntroPage1.png */,
+				AAC1C99F1AE62CE100385455 /* IntroPage1New.png */,
+				AAC1C9A01AE62CE100385455 /* IntroPage1New.PSD */,
+				AAC1C9A11AE62CE100385455 /* IntroPage2.png */,
+				AAC1C9A21AE62CE100385455 /* IntroPage2New.png */,
+				AAC1C9A31AE62CE100385455 /* IntroPage2New.PSD */,
+				AAC1C9A41AE62CE100385455 /* IntroPage3.png */,
+				AAC1C9A51AE62CE100385455 /* IntroPage3New.png */,
+				AAC1C9A61AE62CE100385455 /* IntroPage3New.PSD */,
+				AAC1C9A71AE62CE100385455 /* IvyPointsBanner.png */,
+				AAC1C9A81AE62CE100385455 /* LearningInterestLogo.png */,
+				AAC1C9A91AE62CE100385455 /* LearningTargetLogo.png */,
+				AAC1C9AA1AE62CE100385455 /* LiveCoachChallengeOff.png */,
+				AAC1C9AB1AE62CE100385455 /* LiveCoachChallengeOn.png */,
+				AAC1C9AC1AE62CE100385455 /* LiveCoachNow.png */,
+				AAC1C9AD1AE62CE100385455 /* LiveCoachOff.png */,
+				AAC1C9AE1AE62CE100385455 /* LiveCoachOn.png */,
+				AAC1C9AF1AE62CE100385455 /* LocationLogo.png */,
+				AAC1C9B01AE62CE100385455 /* LoginPageBackground.png */,
+				AAC1C9B11AE62CE100385455 /* LoginPageBackground1.png */,
+				AAC1C9B21AE62CE100385455 /* LoginWithLinkedIn.png */,
+				AAC1C9B31AE62CE100385455 /* LoginWithWeChat.png */,
+				AAC1C9B41AE62CE100385455 /* LogoB.png */,
+				AAC1C9B51AE62CE100385455 /* MeHome.png */,
+				AAC1C9B61AE62CE100385455 /* MenuBackground.png */,
+				AAC1C9B71AE62CE100385455 /* MeOff.png */,
+				AAC1C9B81AE62CE100385455 /* MeOn.png */,
+				AAC1C9B91AE62CE100385455 /* MobilePhoneLogo.png */,
+				AAC1C9BA1AE62CE100385455 /* OpenReviewPopupBackground.png */,
+				AAC1C9BB1AE62CE100385455 /* OpenReviewShade.png */,
+				AAC1C9BC1AE62CE100385455 /* OtherInstructorListBackground.png */,
+				AAC1C9BD1AE62CE100385455 /* PasswordLogo.png */,
+				AAC1C9BE1AE62CE100385455 /* PillarsBackground.png */,
+				AAC1C9BF1AE62CE100385455 /* PillarVerticalStrip.png */,
+				AAC1C9C01AE62CE100385455 /* ProfileLogoOff.png */,
+				AAC1C9C11AE62CE100385455 /* ProfileLogoOn.png */,
+				AAC1C9C21AE62CE100385455 /* ProfileVerticalStrip.png */,
+				AAC1C9C31AE62CE100385455 /* ProfileWindow.png */,
+				AAC1C9C41AE62CE100385455 /* RecommendedChallengeStrip.png */,
+				AAC1C9C51AE62CE100385455 /* RegisterBackground.png */,
+				AAC1C9C61AE62CE100385455 /* RegisterWoman.png */,
+				AAC1C9C71AE62CE100385455 /* ReminderDaySelected.png */,
+				AAC1C9C81AE62CE100385455 /* ReminderDayUnSelected.png */,
+				AAC1C9C91AE62CE100385455 /* ReviewCloseUp.png */,
+				AAC1C9CA1AE62CE100385455 /* ReviewGreenStar.png */,
+				AAC1C9CB1AE62CE100385455 /* ReviewInstructorUnknown.png */,
+				AAC1C9CC1AE62CE100385455 /* ReviewPointAdded.png */,
+				AAC1C9CD1AE62CE100385455 /* ReviewPointDeducted.png */,
+				AAC1C9CE1AE62CE100385455 /* ReviewReadLock.png */,
+				AAC1C9CF1AE62CE100385455 /* ScheduledSession.png */,
+				AAC1C9D01AE62CE100385455 /* ScheduleSession.png */,
+				AAC1C9D11AE62CE100385455 /* ScheduleSessionLogoOff.png */,
+				AAC1C9D21AE62CE100385455 /* ScheduleSessionLogoOn.png */,
+				AAC1C9D31AE62CE100385455 /* SetLevelDone.png */,
+				AAC1C9D41AE62CE100385455 /* SetLevelLater.png */,
+				AAC1C9D51AE62CE100385455 /* SettingMenuBackground.png */,
+				AAC1C9D61AE62CE100385455 /* SettingMenuButton.png */,
+				AAC1C9D71AE62CE100385455 /* SettingsOff.png */,
+				AAC1C9D81AE62CE100385455 /* SettingsOn.png */,
+				AAC1C9D91AE62CE100385455 /* SettingsOn1.png */,
+				AAC1C9DA1AE62CE100385455 /* SpeakChinese.png */,
+				AAC1C9DB1AE62CE100385455 /* SpeakEnglish.png */,
+				AAC1C9DC1AE62CE100385455 /* StudentChallengeCommentMic.png */,
+				AAC1C9DD1AE62CE100385455 /* StudentChallengeCommentOneLine.png */,
+				AAC1C9DE1AE62CE100385455 /* StudentChallengeCommentSend.png */,
+				AAC1C9DF1AE62CE100385455 /* StudentChallengeHeaderBackground.png */,
+				AAC1C9E01AE62CE100385455 /* StudentOtherChallengeDivider.png */,
+				AAC1C9E11AE62CE100385455 /* StudentReviewPoint.png */,
+				AAC1C9E21AE62CE100385455 /* TextBoxFooter.png */,
+				AAC1C9E31AE62CE100385455 /* Thumbs.db */,
+				AAC1C9E41AE62CE100385455 /* Tip.png */,
+				AAC1C9E51AE62CE100385455 /* UserChallengeStrip.png */,
+				AAC1C9E61AE62CE100385455 /* What'sHotActive.png */,
+				AAC1C9E71AE62CE100385455 /* What'sHotBackground.png */,
+				AAC1C9E81AE62CE100385455 /* What'sHotInActive.png */,
+			);
+			name = ILEChallengerImages;
+			path = ILE/ILEChallengerImages;
+			sourceTree = "<group>";
+		};
+		AAC1C9461AE62CE100385455 /* Challenges */ = {
+			isa = PBXGroup;
+			children = (
+				AAC1C9471AE62CE100385455 /* AT A COCKTAIL PARTY.png */,
+				AAC1C9481AE62CE100385455 /* AT A COCKTAIL PARTY.PSD */,
+				AAC1C9491AE62CE100385455 /* AT THE RECEPTION DESK.png */,
+				AAC1C94A1AE62CE100385455 /* AT THE RECEPTION DESK.PSD */,
+				AAC1C94B1AE62CE100385455 /* AT THE START OF A PRESENTATION.png */,
+				AAC1C94C1AE62CE100385455 /* AT THE START OF A PRESENTATION.PSD */,
+				AAC1C94D1AE62CE100385455 /* IN A JOB INTERVIEW.png */,
+				AAC1C94E1AE62CE100385455 /* IN A JOB INTERVIEW.PSD */,
+				AAC1C94F1AE62CE100385455 /* Thumbs.db */,
+			);
+			path = Challenges;
+			sourceTree = "<group>";
+		};
+		AAC1C9561AE62CE100385455 /* ChallengeSeries */ = {
+			isa = PBXGroup;
+			children = (
+				AAC1C9571AE62CE100385455 /* ChallengeSeries1.png */,
+				AAC1C9581AE62CE100385455 /* ChallengeSeries2.png */,
+				AAC1C9591AE62CE100385455 /* ChallengeSeries3.png */,
+				AAC1C95A1AE62CE100385455 /* ChallengeSeries4.png */,
+				AAC1C95B1AE62CE100385455 /* ChallengeSeries5.png */,
+				AAC1C95C1AE62CE100385455 /* ChallengeSeries6.png */,
+				AAC1C95D1AE62CE100385455 /* ChallengeSeries7.png */,
+				AAC1C95E1AE62CE100385455 /* Thumbs.db */,
+			);
+			path = ChallengeSeries;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1084,219 +1745,407 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAC1CA661AE62CE100385455 /* InstructorReviewCheckedGreen.png in Resources */,
 				5D0D5E171AC5C3EC006D13CE /* customWorkProPastJob@2x.png in Resources */,
+				AAC1CA451AE62CE100385455 /* ForgotBackground.png in Resources */,
 				5D760E381AE17F490049720C /* liveCoachNowButtonOff.png in Resources */,
 				8B64BCB01AE102D60006D2DE /* tabbarIcon2@3x.png in Resources */,
+				AAC1C9EA1AE62CE100385455 /* A1MeaningBackground.png in Resources */,
 				8B64BCCA1AE1047D0006D2DE /* tabbarIcon4ON@2x.png in Resources */,
 				5DE574E51AC825280080CFB4 /* CustomAbilitiCrossBG@3x.png in Resources */,
 				5D5CC79A1AE01A1A00DE77F9 /* horizontalButton4.png in Resources */,
+				AAC1CA171AE62CE100385455 /* ChallengeMic.png in Resources */,
+				AAC1CA791AE62CE100385455 /* IntroPage3New.png in Resources */,
+				AAC1CA381AE62CE100385455 /* CloseCertifiedTab.png in Resources */,
 				5D5CC79E1AE01D3000DE77F9 /* chanllengeSeriesNavBar.png in Resources */,
+				AAC1C9F41AE62CE100385455 /* AwardMostFollowed.png in Resources */,
 				5D0D5E101AC5C081006D13CE /* customWorkProFDate.png in Resources */,
+				AAC1CA801AE62CE100385455 /* LiveCoachNow.png in Resources */,
+				AAC1CA161AE62CE100385455 /* ChallengeLikeYellow.png in Resources */,
+				AAC1CA8D1AE62CE100385455 /* MobilePhoneLogo.png in Resources */,
 				5D1E45CA1ABDDEA200E8B21D /* chineseLangButtonBG.png in Resources */,
 				5DE574F81AC8611F0080CFB4 /* ileNavBarChallenge.png in Resources */,
+				AAC1CA8E1AE62CE100385455 /* OpenReviewPopupBackground.png in Resources */,
+				AAC1CA001AE62CE100385455 /* C1Strip.png in Resources */,
+				AAC1CA3D1AE62CE100385455 /* FollowCheckActive.png in Resources */,
+				AAC1CA881AE62CE100385455 /* LogoB.png in Resources */,
 				8B64BC5A1AE0C8F90006D2DE /* labelHeader6@2x.png in Resources */,
+				AAC1CA401AE62CE100385455 /* FollowLogoGrey.png in Resources */,
 				5D0D5E121AC5C081006D13CE /* customWorkProFDate@3x.png in Resources */,
+				AAC1CAB51AE62CE100385455 /* StudentReviewPoint.png in Resources */,
 				5D760E271AE17DD70049720C /* liveCoachNowButtonOn@2x.png in Resources */,
 				5D760E391AE17F490049720C /* liveCoachNowButtonOff@2x.png in Resources */,
 				5D7219DB1AC1E958008D6B56 /* graphLevelBtn1Selected.png in Resources */,
+				AAC1CA861AE62CE100385455 /* LoginWithLinkedIn.png in Resources */,
 				5D7219DC1AC1E958008D6B56 /* graphLevelBtn1Selected@2x.png in Resources */,
+				AAC1CA541AE62CE100385455 /* ILEGlobalCommunicatorScale.png in Resources */,
 				8B64BC541AE0C6930006D2DE /* labelHeader5@2x.png in Resources */,
 				5D7219E41AC1EAFC008D6B56 /* graphLevelBtn2Selected@2x.png in Resources */,
 				5DE574E91AC8289F0080CFB4 /* CustomAbilitiPillars@2x.png in Resources */,
+				AAC1CA641AE62CE100385455 /* InstructorOverallFeedback.png in Resources */,
+				AAC1C9F91AE62CE100385455 /* B1Strip.png in Resources */,
+				AAC1CA3C1AE62CE100385455 /* ExpertiseLogo.png in Resources */,
+				AAC1CA2E1AE62CE100385455 /* ChallengeSeries4.png in Resources */,
+				AAC1CA751AE62CE100385455 /* IntroPage2.png in Resources */,
 				5D721A031AC1EED8008D6B56 /* graphLevelBtn6Selected.png in Resources */,
 				5D0D5E0B1AC5BF11006D13CE /* customWorkProPosition@2x.png in Resources */,
 				8B64BC7F1AE0E0750006D2DE /* meButtonIcon@3x.png in Resources */,
+				AAC1CA081AE62CE100385455 /* ChallengeCommentOnBlue.png in Resources */,
 				5D5CC78F1AE00FD700DE77F9 /* horizontalButton1@2x.png in Resources */,
 				5D3F1BDA1AC3316B008B4212 /* accBackBtn.png in Resources */,
+				AAC1CAB71AE62CE100385455 /* Thumbs.db in Resources */,
 				8B64BCAE1AE102D60006D2DE /* tabbarIcon2.png in Resources */,
 				8B64BC421AE0C2530006D2DE /* horizontalButton6@2x.png in Resources */,
+				AAC1CA511AE62CE100385455 /* HeaderLightStrip.png in Resources */,
 				5D3F1BD61AC32BB2008B4212 /* A1popup.png in Resources */,
+				AAC1C9F51AE62CE100385455 /* AwardMostLiked.png in Resources */,
 				8B64BC8A1AE0E30A0006D2DE /* backArrowWhite@2x.png in Resources */,
 				5D760E341AE17ECA0049720C /* liveCoachLaterButtonOn@3x.png in Resources */,
 				8B64BCBB1AE103880006D2DE /* tabbarIcon3@2x.png in Resources */,
 				8B64BC781AE0DFD50006D2DE /* meButtonImg@2x.png in Resources */,
+				AAC1CA841AE62CE100385455 /* LoginPageBackground.png in Resources */,
+				AAC1CA711AE62CE100385455 /* IntroHome.png in Resources */,
 				5D760E411AE180490049720C /* liveCoachInstruButtonOff.png in Resources */,
 				5D0D5E0C1AC5BF12006D13CE /* customWorkProPosition@3x.png in Resources */,
+				AAC1CA911AE62CE100385455 /* PasswordLogo.png in Resources */,
+				AAC1CAA01AE62CE100385455 /* ReviewPointAdded.png in Resources */,
 				5D760E321AE17ECA0049720C /* liveCoachLaterButtonOn.png in Resources */,
 				8B64BCC61AE1047D0006D2DE /* tabbarIcon4.png in Resources */,
 				5D8C2C761ABE957E007F01C7 /* radioButtonSelected.png in Resources */,
 				5D760E3A1AE17F490049720C /* liveCoachNowButtonOff@3x.png in Resources */,
+				AAC1CA1F1AE62CE100385455 /* AT THE RECEPTION DESK.PSD in Resources */,
 				5D0D5E231AC5C57B006D13CE /* customWorkTickONN@2x.png in Resources */,
 				5D1E45D81ABDE76800E8B21D /* skipIntroNon@3x.png in Resources */,
+				AAC1CA771AE62CE100385455 /* IntroPage2New.PSD in Resources */,
+				AAC1CA721AE62CE100385455 /* IntroPage1.png in Resources */,
+				AAC1CA211AE62CE100385455 /* AT THE START OF A PRESENTATION.PSD in Resources */,
 				8B64BC711AE0CD080006D2DE /* horizontalButton10.png in Resources */,
+				AAC1CA361AE62CE100385455 /* ChooseSessionBackground.png in Resources */,
+				AAC1CA1C1AE62CE100385455 /* AT A COCKTAIL PARTY.png in Resources */,
+				AAC1CA5B1AE62CE100385455 /* ILPAssessmentEnC2.png in Resources */,
+				AAC1CA461AE62CE100385455 /* ForgotBackground1.png in Resources */,
 				8B6B2F481AE10C500026F3A8 /* tabbarIcon1@2x.png in Resources */,
 				5D7219ED1AC1ED37008D6B56 /* graphLevelBtn3.png in Resources */,
 				5D8C2C9B1ABF095F007F01C7 /* wechatButtonBG@2x.png in Resources */,
+				AAC1CA951AE62CE100385455 /* ProfileLogoOn.png in Resources */,
 				5D8C2CA21ABF0A05007F01C7 /* linkedinButtonBG@3x.png in Resources */,
+				AAC1CA2A1AE62CE100385455 /* ChallengeSectionPresent.png in Resources */,
 				8B6B2F4C1AE10C500026F3A8 /* tabbarIcon1ON@3x.png in Resources */,
+				AAC1CA151AE62CE100385455 /* ChallengeLikeWhite.png in Resources */,
 				5D8C2C791ABE957E007F01C7 /* radioButtonUnselected.png in Resources */,
+				AAC1C9F71AE62CE100385455 /* AwardTopPercentage.png in Resources */,
+				AAC1CAAF1AE62CE100385455 /* SpeakEnglish.png in Resources */,
+				AAC1C9EE1AE62CE100385455 /* A2Strip.png in Resources */,
+				AAC1CAAD1AE62CE100385455 /* SettingsOn1.png in Resources */,
 				5DA9B9A31ABE7DDA000B43E8 /* logRegBackButton@3x.png in Resources */,
+				AAC1CA8F1AE62CE100385455 /* OpenReviewShade.png in Resources */,
 				8B64BC721AE0CD080006D2DE /* horizontalButton10@2x.png in Resources */,
+				AAC1CA0D1AE62CE100385455 /* ChallengeCompletedOrange.png in Resources */,
+				AAC1CA3B1AE62CE100385455 /* EmailLogo.png in Resources */,
 				5D1E45D21ABDDF5C00E8B21D /* englishLangButtonBG@3x.png in Resources */,
+				AAC1CA9D1AE62CE100385455 /* ReviewCloseUp.png in Resources */,
 				8B6B2F491AE10C500026F3A8 /* tabbarIcon1@3x.png in Resources */,
 				5D5F1DFD1AC483000017206D /* skipButton.png in Resources */,
 				5D0D5E371AC5D384006D13CE /* customCareerNav.png in Resources */,
 				5D5CC7901AE00FD700DE77F9 /* horizontalButton1@3x.png in Resources */,
 				5D8C2C871ABEA8EA007F01C7 /* submitButtonBG.png in Resources */,
+				AAC1CA091AE62CE100385455 /* ChallengeCommentOnOrange.png in Resources */,
+				AAC1CA0A1AE62CE100385455 /* ChallengeCommunityOff.png in Resources */,
+				AAC1C9F11AE62CE100385455 /* ArrowUp.png in Resources */,
 				5D8C2C771ABE957E007F01C7 /* radioButtonSelected@2x.png in Resources */,
 				8B6B30BD1AE12BF90026F3A8 /* whiteNavBarImg.png in Resources */,
+				AAC1CA8A1AE62CE100385455 /* MenuBackground.png in Resources */,
+				AAC1CA1D1AE62CE100385455 /* AT A COCKTAIL PARTY.PSD in Resources */,
 				8B64BCB11AE102D60006D2DE /* tabbarIcon2ON.png in Resources */,
+				AAC1CA421AE62CE100385455 /* FollowLogoOn.png in Resources */,
 				5D0D5E201AC5C57B006D13CE /* customWorkTickOFF@2x.png in Resources */,
+				AAC1CA5A1AE62CE100385455 /* ILPAssessmentEnC1.png in Resources */,
 				5D721A001AC1EED8008D6B56 /* graphLevelBtn5Selected@2x.png in Resources */,
+				AAC1CA201AE62CE100385455 /* AT THE START OF A PRESENTATION.png in Resources */,
 				5D1E45CB1ABDDEA200E8B21D /* chineseLangButtonBG@2x.png in Resources */,
+				AAC1CA6B1AE62CE100385455 /* InstructorReviewPullDown.png in Resources */,
 				5D3F1BDF1AC33228008B4212 /* accDoneBtn@2x.png in Resources */,
 				5D721A021AC1EED8008D6B56 /* graphLevelBtn6@2x.png in Resources */,
 				8B64BC431AE0C2530006D2DE /* horizontalButton6@3x.png in Resources */,
+				AAC1CA931AE62CE100385455 /* PillarVerticalStrip.png in Resources */,
 				5D0D5E301AC5CDFA006D13CE /* customWorkNav@3x.png in Resources */,
 				8B64BC4E1AE0C5E50006D2DE /* labelHeader4@2x.png in Resources */,
 				5D7219E31AC1EAFC008D6B56 /* graphLevelBtn2Selected.png in Resources */,
 				8B64BC601AE0C9B80006D2DE /* horizontalButton7@2x.png in Resources */,
 				5D8C2C9A1ABF095F007F01C7 /* wechatButtonBG.png in Resources */,
+				AAC1CAB41AE62CE100385455 /* StudentOtherChallengeDivider.png in Resources */,
+				AAC1CA581AE62CE100385455 /* ILPAssessmentEnB1.png in Resources */,
 				5D760E461AE180490049720C /* liveCoachInstruButtonOn@3x.png in Resources */,
+				AAC1CA901AE62CE100385455 /* OtherInstructorListBackground.png in Resources */,
 				5D760E451AE180490049720C /* liveCoachInstruButtonOn@2x.png in Resources */,
 				5D3F1BDE1AC33228008B4212 /* accDoneBtn.png in Resources */,
+				AAC1CA1B1AE62CE100385455 /* ChallengePointStar1.png in Resources */,
+				AAC1CA7A1AE62CE100385455 /* IntroPage3New.PSD in Resources */,
 				5DAC0F701ACC643D0073BB11 /* scrollViewImg1.png in Resources */,
 				8B64BC731AE0CD080006D2DE /* horizontalButton10@3x.png in Resources */,
+				AAC1CA621AE62CE100385455 /* InstructorLevelB.png in Resources */,
+				AAC1CA1A1AE62CE100385455 /* ChallengePointStar.png in Resources */,
 				8B64BC411AE0C2530006D2DE /* horizontalButton6.png in Resources */,
 				8B64BC851AE0E2C30006D2DE /* backArrowBlack@3x.png in Resources */,
+				AAC1CA601AE62CE100385455 /* InstructorFullReviewBackground.png in Resources */,
 				8B64BC3D1AE0C1DF0006D2DE /* horizontalButton5@3x.png in Resources */,
 				5D7219A61AC1D4E4008D6B56 /* profilePic.png in Resources */,
 				5D7219B21AC1D8D6008D6B56 /* professionText@2x.png in Resources */,
+				AAC1C9FC1AE62CE100385455 /* ButtonOff.png in Resources */,
 				8B64BCAF1AE102D60006D2DE /* tabbarIcon2@2x.png in Resources */,
+				AAC1CA391AE62CE100385455 /* CommentLikeBorder.png in Resources */,
+				AAC1CA591AE62CE100385455 /* ILPAssessmentEnB2.png in Resources */,
 				5D7219A81AC1D5FF008D6B56 /* broseButton.png in Resources */,
 				5D3F1BE71AC334F1008B4212 /* setUpAccNavBtn@2x.png in Resources */,
+				AAC1CA481AE62CE100385455 /* GetCertifiedTab.png in Resources */,
+				AAC1CA741AE62CE100385455 /* IntroPage1New.PSD in Resources */,
+				AAC1C9FF1AE62CE100385455 /* C1.png in Resources */,
+				AAC1CA6E1AE62CE100385455 /* InstructorReviewUnchecked.png in Resources */,
 				8B6B30C91AE12F670026F3A8 /* challengeComButtonPoint.png in Resources */,
+				AAC1CA4E1AE62CE100385455 /* HeaderLight.png in Resources */,
 				5D721A041AC1EED8008D6B56 /* graphLevelBtn6Selected@2x.png in Resources */,
 				5D60ABBB1ABC7C4900AA4453 /* Main.storyboard in Resources */,
+				AAC1CA701AE62CE100385455 /* InstructorSeeChallengeOuter.png in Resources */,
 				5D5CC78E1AE00FD700DE77F9 /* horizontalButton1.png in Resources */,
+				AAC1CAB31AE62CE100385455 /* StudentChallengeHeaderBackground.png in Resources */,
+				AAC1CA9A1AE62CE100385455 /* RegisterWoman.png in Resources */,
 				5DA9B9A21ABE7DDA000B43E8 /* logRegBackButton@2x.png in Resources */,
+				AAC1C9FB1AE62CE100385455 /* B2Strip.png in Resources */,
 				5D8C2C941ABEF57F007F01C7 /* emailIDTextBG.png in Resources */,
+				AAC1CA0B1AE62CE100385455 /* ChallengeCommunityOn.png in Resources */,
 				5D7219FE1AC1EED8008D6B56 /* graphLevelBtn5@2x.png in Resources */,
 				5D3F1BDB1AC3316B008B4212 /* accBackBtn@2x.png in Resources */,
+				AAC1CA5F1AE62CE100385455 /* InstructorFeedbackRecord.png in Resources */,
+				AAC1CA7D1AE62CE100385455 /* LearningTargetLogo.png in Resources */,
 				5D760E261AE17DD70049720C /* liveCoachNowButtonOn.png in Resources */,
+				AAC1CA021AE62CE100385455 /* C2Strip.png in Resources */,
 				5D7219FF1AC1EED8008D6B56 /* graphLevelBtn5Selected.png in Resources */,
 				5D1E45CC1ABDDEA200E8B21D /* chineseLangButtonBG@3x.png in Resources */,
 				5D5F1DFA1AC482150017206D /* nextButtonBG@2x.png in Resources */,
+				AAC1CA441AE62CE100385455 /* Footer.png in Resources */,
+				AAC1CA9C1AE62CE100385455 /* ReminderDayUnSelected.png in Resources */,
 				8B64BC591AE0C8F90006D2DE /* labelHeader6.png in Resources */,
+				AAC1C9FA1AE62CE100385455 /* B2.png in Resources */,
 				8B6B2F471AE10C500026F3A8 /* tabbarIcon1.png in Resources */,
 				5D7219B41AC1DC4F008D6B56 /* levelGraph.png in Resources */,
+				AAC1CA2F1AE62CE100385455 /* ChallengeSeries5.png in Resources */,
 				5D760E441AE180490049720C /* liveCoachInstruButtonOn.png in Resources */,
+				AAC1CAA41AE62CE100385455 /* ScheduleSession.png in Resources */,
+				AAC1CA871AE62CE100385455 /* LoginWithWeChat.png in Resources */,
+				AAC1C9F01AE62CE100385455 /* ActivePageSource.png in Resources */,
+				AAC1CA251AE62CE100385455 /* ChallengeSectionExample.png in Resources */,
 				5D760E431AE180490049720C /* liveCoachInstruButtonOff@3x.png in Resources */,
+				AAC1CAA81AE62CE100385455 /* SetLevelLater.png in Resources */,
+				AAC1CA061AE62CE100385455 /* ChallengeCommentGrey.png in Resources */,
 				8B64BC551AE0C6930006D2DE /* labelHeader5@3x.png in Resources */,
 				8B64BC4F1AE0C5E50006D2DE /* labelHeader4@3x.png in Resources */,
 				8B64BC6B1AE0CB030006D2DE /* horizontalButton9.png in Resources */,
+				AAC1CA681AE62CE100385455 /* InstructorReviewInactiveBox.png in Resources */,
 				5D0D5E1F1AC5C57B006D13CE /* customWorkTickOFF.png in Resources */,
+				AAC1CA7E1AE62CE100385455 /* LiveCoachChallengeOff.png in Resources */,
+				AAC1CA891AE62CE100385455 /* MeHome.png in Resources */,
 				8B64BC481AE0C45D0006D2DE /* labelHeader3@2x.png in Resources */,
 				5D0D5E211AC5C57B006D13CE /* customWorkTickOFF@3x.png in Resources */,
+				AAC1CA8C1AE62CE100385455 /* MeOn.png in Resources */,
 				5D8C2C881ABEA8EA007F01C7 /* submitButtonBG@2x.png in Resources */,
+				AAC1CAAE1AE62CE100385455 /* SpeakChinese.png in Resources */,
 				8B64BC8B1AE0E30A0006D2DE /* backArrowWhite@3x.png in Resources */,
+				AAC1CA2B1AE62CE100385455 /* ChallengeSeries1.png in Resources */,
+				AAC1CA8B1AE62CE100385455 /* MeOff.png in Resources */,
+				AAC1CAA61AE62CE100385455 /* ScheduleSessionLogoOn.png in Resources */,
 				5DA9B9A71ABE7ED6000B43E8 /* ileLogoImage@2x.png in Resources */,
 				8B64BCB31AE102D60006D2DE /* tabbarIcon2ON@3x.png in Resources */,
 				5D5CC7951AE018CA00DE77F9 /* horizontalButton3@2x.png in Resources */,
+				AAC1CA181AE62CE100385455 /* ChallengePart.png in Resources */,
 				5D5CC7941AE018CA00DE77F9 /* horizontalButton3.png in Resources */,
 				5D8C2C961ABEF57F007F01C7 /* emailIDTextBG@3x.png in Resources */,
+				AAC1CA031AE62CE100385455 /* CallMyMobile.png in Resources */,
 				8B6B30CA1AE12F670026F3A8 /* challengeComButtonPoint@2x.png in Resources */,
+				AAC1CA051AE62CE100385455 /* CarrerLogo.png in Resources */,
 				5D5F1E0C1AC48D8D0017206D /* customWorkProIndustry.png in Resources */,
+				AAC1CA0C1AE62CE100385455 /* ChallengeCompletedGraph.png in Resources */,
+				AAC1CA071AE62CE100385455 /* ChallengeCommentOff.png in Resources */,
+				AAC1CA851AE62CE100385455 /* LoginPageBackground1.png in Resources */,
+				AAC1CAB21AE62CE100385455 /* StudentChallengeCommentSend.png in Resources */,
 				8B64BC3B1AE0C1DF0006D2DE /* horizontalButton5.png in Resources */,
+				AAC1CA6F1AE62CE100385455 /* InstructorSeeChallenge.png in Resources */,
 				8B64BC671AE0CA240006D2DE /* horizontalButton8@3x.png in Resources */,
+				AAC1CA241AE62CE100385455 /* Thumbs.db in Resources */,
+				AAC1CABC1AE62CE100385455 /* What'sHotInActive.png in Resources */,
 				5D1E45D11ABDDF5C00E8B21D /* englishLangButtonBG@2x.png in Resources */,
 				8B64BC611AE0C9B80006D2DE /* horizontalButton7@3x.png in Resources */,
 				5DE574E81AC8289F0080CFB4 /* CustomAbilitiPillars.png in Resources */,
 				8B6B30C61AE12F030026F3A8 /* challengeComButtonPlay@2x.png in Resources */,
 				5D760E311AE17ECA0049720C /* liveCoachLaterButtonOff@3x.png in Resources */,
 				5D1E45C21ABDD29E00E8B21D /* IntroPage2.png in Resources */,
+				AAC1CA501AE62CE100385455 /* HeaderLightBackground.png in Resources */,
+				AAC1CA4B1AE62CE100385455 /* HeaderDark.png in Resources */,
 				5D8C2CA81ABF0AC0007F01C7 /* qqButtonBG@3x.png in Resources */,
 				5D0D5E381AC5D384006D13CE /* customCareerNav@2x.png in Resources */,
 				8B6B30C21AE12E230026F3A8 /* mimiProPic@2x.png in Resources */,
 				5D0D5E2E1AC5CDFA006D13CE /* customWorkNav.png in Resources */,
 				8B64BC3C1AE0C1DF0006D2DE /* horizontalButton5@2x.png in Resources */,
 				5D5F1E0D1AC48D8D0017206D /* customWorkProIndustry@2x.png in Resources */,
+				AAC1CA7C1AE62CE100385455 /* LearningInterestLogo.png in Resources */,
 				5D0D5E111AC5C081006D13CE /* customWorkProFDate@2x.png in Resources */,
 				8B64BC311AE0C0430006D2DE /* labelHeader1@3x.png in Resources */,
 				5D7219E21AC1EAFC008D6B56 /* graphLevelBtn2@2x.png in Resources */,
 				5D7219E11AC1EAFC008D6B56 /* graphLevelBtn2.png in Resources */,
+				AAC1CA971AE62CE100385455 /* ProfileWindow.png in Resources */,
 				5D5F1E011AC485BD0017206D /* customIntroNav.png in Resources */,
+				AAC1CA301AE62CE100385455 /* ChallengeSeries6.png in Resources */,
+				AAC1CAA31AE62CE100385455 /* ScheduledSession.png in Resources */,
 				5D7219AA1AC1D622008D6B56 /* broseButton@2x.png in Resources */,
 				5D0D5E181AC5C3EC006D13CE /* customWorkProPastJob@3x.png in Resources */,
+				AAC1CA321AE62CE100385455 /* Thumbs.db in Resources */,
 				8B64BC891AE0E30A0006D2DE /* backArrowWhite.png in Resources */,
 				5D8C2C891ABEA8EA007F01C7 /* submitButtonBG@3x.png in Resources */,
 				5D7219B11AC1D8D6008D6B56 /* professionText.png in Resources */,
 				5D3F1BD71AC32BB2008B4212 /* A2popup.png in Resources */,
 				5DE574E41AC825280080CFB4 /* CustomAbilitiCrossBG@2x.png in Resources */,
 				5D5F1E111AC48E970017206D /* customWorkProCompany@2x.png in Resources */,
+				AAC1CA9F1AE62CE100385455 /* ReviewInstructorUnknown.png in Resources */,
+				AAC1CA561AE62CE100385455 /* ILPAssessmentEnA1.png in Resources */,
 				5D8C2C7A1ABE957E007F01C7 /* radioButtonUnselected@2x.png in Resources */,
+				AAC1CA5D1AE62CE100385455 /* Images3DFrame.png in Resources */,
 				8B64BCBD1AE103880006D2DE /* tabbarIcon3ON.png in Resources */,
+				AAC1CA731AE62CE100385455 /* IntroPage1New.png in Resources */,
+				AAC1CA311AE62CE100385455 /* ChallengeSeries7.png in Resources */,
 				5D7219EF1AC1ED37008D6B56 /* graphLevelBtn3Selected.png in Resources */,
+				AAC1CA6A1AE62CE100385455 /* InstructorReviewOrangeLarge.png in Resources */,
 				5D1E45C61ABDDCD500E8B21D /* IntroStarPageBG.png in Resources */,
+				AAC1C9FE1AE62CE100385455 /* BuyMoreButton.png in Resources */,
+				AAC1CA6D1AE62CE100385455 /* InstructorReviewStrip.png in Resources */,
 				5DA9B9A61ABE7ED6000B43E8 /* ileLogoImage.png in Resources */,
+				AAC1CAB81AE62CE100385455 /* Tip.png in Resources */,
+				AAC1CA781AE62CE100385455 /* IntroPage3.png in Resources */,
+				AAC1CAB91AE62CE100385455 /* UserChallengeStrip.png in Resources */,
+				AAC1CA3A1AE62CE100385455 /* EducationLogo.png in Resources */,
+				AAC1C9F31AE62CE100385455 /* AwardMostActive.png in Resources */,
 				5D60ABC01ABC7C4900AA4453 /* LaunchScreen.xib in Resources */,
 				8B64BC4D1AE0C5E50006D2DE /* labelHeader4.png in Resources */,
 				8B6B30BE1AE12BF90026F3A8 /* whiteNavBarImg@2x.png in Resources */,
+				AAC1CA371AE62CE100385455 /* CircleShape.png in Resources */,
+				AAC1CA111AE62CE100385455 /* ChallengeGrey1.png in Resources */,
+				AAC1CAAA1AE62CE100385455 /* SettingMenuButton.png in Resources */,
 				5D760E421AE180490049720C /* liveCoachInstruButtonOff@2x.png in Resources */,
+				AAC1CABA1AE62CE100385455 /* What'sHotActive.png in Resources */,
 				5D7219AE1AC1D766008D6B56 /* nearestCity@2x.png in Resources */,
 				8B64BC7E1AE0E0750006D2DE /* meButtonIcon@2x.png in Resources */,
+				AAC1CA1E1AE62CE100385455 /* AT THE RECEPTION DESK.png in Resources */,
+				AAC1CA121AE62CE100385455 /* ChallengeHeader.png in Resources */,
 				5D1E45C31ABDD29E00E8B21D /* IntroPage3.png in Resources */,
+				AAC1CA671AE62CE100385455 /* InstructorReviewCheckedRed.png in Resources */,
 				5D760E221AE177130049720C /* livetutorSearchTxt@2x.png in Resources */,
+				AAC1CA821AE62CE100385455 /* LiveCoachOn.png in Resources */,
+				AAC1CA2D1AE62CE100385455 /* ChallengeSeries3.png in Resources */,
+				AAC1CAB61AE62CE100385455 /* TextBoxFooter.png in Resources */,
 				5D5F1E101AC48E970017206D /* customWorkProCompany.png in Resources */,
+				AAC1CA4C1AE62CE100385455 /* HeaderDarkBack.png in Resources */,
+				AAC1CA491AE62CE100385455 /* GetCertifiedToday.png in Resources */,
 				5D8C2C951ABEF57F007F01C7 /* emailIDTextBG@2x.png in Resources */,
+				AAC1CA631AE62CE100385455 /* InstructorLevelC.png in Resources */,
 				5D5F1DF91AC482150017206D /* nextButtonBG.png in Resources */,
 				5D8C2C9C1ABF095F007F01C7 /* wechatButtonBG@3x.png in Resources */,
+				AAC1CA4D1AE62CE100385455 /* HeaderDarkStrip.png in Resources */,
 				5D5F1E021AC485BE0017206D /* customIntroNav@2x.png in Resources */,
 				8B64BCC91AE1047D0006D2DE /* tabbarIcon4ON.png in Resources */,
+				AAC1CA141AE62CE100385455 /* ChallengeLikeGrey.png in Resources */,
+				AAC1CA4F1AE62CE100385455 /* HeaderLightBack.png in Resources */,
+				AAC1C9EC1AE62CE100385455 /* A2.png in Resources */,
+				AAC1CA521AE62CE100385455 /* IAmAnInstructor.png in Resources */,
 				5D760E281AE17DD70049720C /* liveCoachNowButtonOn@3x.png in Resources */,
 				5D1E45DC1ABDE83600E8B21D /* skipIntroNonColor.png in Resources */,
 				8B6B30CD1AE130210026F3A8 /* challengeComImgFeedback.png in Resources */,
 				5D0D5E391AC5D384006D13CE /* customCareerNav@3x.png in Resources */,
+				AAC1C9EB1AE62CE100385455 /* A1Strip.png in Resources */,
 				5D760E331AE17ECA0049720C /* liveCoachLaterButtonOn@2x.png in Resources */,
 				5D5F1DF61AC4803A0017206D /* customIntroImage.png in Resources */,
 				8B64BC531AE0C6930006D2DE /* labelHeader5.png in Resources */,
 				5D7219F31AC1ED37008D6B56 /* graphLevelBtn4Selected.png in Resources */,
 				5D0D5E241AC5C57B006D13CE /* customWorkTickONN@3x.png in Resources */,
+				AAC1CA0F1AE62CE100385455 /* ChallengeGo.png in Resources */,
 				5D1E45C41ABDD29E00E8B21D /* IntroPage4.png in Resources */,
 				5D8C2CA71ABF0AC0007F01C7 /* qqButtonBG@2x.png in Resources */,
 				8B64BCBE1AE103880006D2DE /* tabbarIcon3ON@2x.png in Resources */,
 				8B64BCC81AE1047D0006D2DE /* tabbarIcon4@3x.png in Resources */,
 				8B64BC5F1AE0C9B80006D2DE /* horizontalButton7.png in Resources */,
+				AAC1CA221AE62CE100385455 /* IN A JOB INTERVIEW.png in Resources */,
 				5D8C2C7B1ABE957E007F01C7 /* radioButtonUnselected@3x.png in Resources */,
 				8B64BCBA1AE103880006D2DE /* tabbarIcon3.png in Resources */,
+				AAC1CAAC1AE62CE100385455 /* SettingsOn.png in Resources */,
+				AAC1CA191AE62CE100385455 /* ChallengePointEarnedBackground.png in Resources */,
+				AAC1CA941AE62CE100385455 /* ProfileLogoOff.png in Resources */,
 				5DE574ED1AC832040080CFB4 /* customAbilitiesNav.png in Resources */,
 				8B64BC5B1AE0C8F90006D2DE /* labelHeader6@3x.png in Resources */,
 				5D8C2C781ABE957E007F01C7 /* radioButtonSelected@3x.png in Resources */,
+				AAC1CAAB1AE62CE100385455 /* SettingsOff.png in Resources */,
+				AAC1CA981AE62CE100385455 /* RecommendedChallengeStrip.png in Resources */,
+				AAC1CA331AE62CE100385455 /* ChallengeShareOff.png in Resources */,
 				5D5CC79C1AE01A1A00DE77F9 /* horizontalButton4@3x.png in Resources */,
 				5DE574E31AC825280080CFB4 /* CustomAbilitiCrossBG.png in Resources */,
+				AAC1CAA91AE62CE100385455 /* SettingMenuBackground.png in Resources */,
+				AAC1C9F81AE62CE100385455 /* B1.png in Resources */,
+				AAC1CA341AE62CE100385455 /* ChallengeShareOn.png in Resources */,
 				5D5F1E091AC48B0F0017206D /* customWorkProExp@2x.png in Resources */,
 				8B64BC831AE0E2C30006D2DE /* backArrowBlack.png in Resources */,
+				AAC1CA271AE62CE100385455 /* ChallengeSectionPast.png in Resources */,
 				5D60ABBD1ABC7C4900AA4453 /* Images.xcassets in Resources */,
 				5D0D5E2F1AC5CDFA006D13CE /* customWorkNav@2x.png in Resources */,
 				5D5F1DFE1AC483000017206D /* skipButton@2x.png in Resources */,
+				AAC1CA551AE62CE100385455 /* ILELogo.png in Resources */,
 				5DA9B99D1ABE7B30000B43E8 /* ileNavBar.png in Resources */,
+				AAC1CA921AE62CE100385455 /* PillarsBackground.png in Resources */,
 				8B6B2F4A1AE10C500026F3A8 /* tabbarIcon1ON.png in Resources */,
+				AAC1CA131AE62CE100385455 /* ChallengeInstructorReview.png in Resources */,
+				AAC1CA431AE62CE100385455 /* FollowUnchecked.png in Resources */,
 				8B64BCBF1AE103880006D2DE /* tabbarIcon3ON@3x.png in Resources */,
 				5D0D5E0A1AC5BF11006D13CE /* customWorkProPosition.png in Resources */,
 				8B64BC351AE0C0B60006D2DE /* labelHeader2.png in Resources */,
+				AAC1CA831AE62CE100385455 /* LocationLogo.png in Resources */,
 				5D1E45C11ABDD29E00E8B21D /* IntroPage1.png in Resources */,
+				AAC1CA041AE62CE100385455 /* CallWeChat.png in Resources */,
+				AAC1C9FD1AE62CE100385455 /* ButtonOn.png in Resources */,
 				8B64BC771AE0DFD50006D2DE /* meButtonImg.png in Resources */,
+				AAC1CA3F1AE62CE100385455 /* FollowingYouBackground.png in Resources */,
 				5D760E2F1AE17ECA0049720C /* liveCoachLaterButtonOff.png in Resources */,
+				AAC1CA011AE62CE100385455 /* C2.png in Resources */,
 				5D760E301AE17ECA0049720C /* liveCoachLaterButtonOff@2x.png in Resources */,
+				AAC1CA0E1AE62CE100385455 /* ChallengeExample.png in Resources */,
 				8B6B30C11AE12E230026F3A8 /* mimiProPic.png in Resources */,
+				AAC1CA6C1AE62CE100385455 /* InstructorReviewPullDownOff.png in Resources */,
+				AAC1C9F61AE62CE100385455 /* AwardsLogo.png in Resources */,
+				AAC1CA691AE62CE100385455 /* InstructorReviewOrange.png in Resources */,
 				5DE574F91AC8611F0080CFB4 /* ileNavBarChallenge@2x.png in Resources */,
 				5D0D5E221AC5C57B006D13CE /* customWorkTickONN.png in Resources */,
+				AAC1CA571AE62CE100385455 /* ILPAssessmentEnA2.png in Resources */,
 				8B6B2F4B1AE10C500026F3A8 /* tabbarIcon1ON@2x.png in Resources */,
 				5D0D5E161AC5C3EC006D13CE /* customWorkProPastJob.png in Resources */,
+				AAC1CAA71AE62CE100385455 /* SetLevelDone.png in Resources */,
 				8B64BC6D1AE0CB030006D2DE /* horizontalButton9@3x.png in Resources */,
+				AAC1CA811AE62CE100385455 /* LiveCoachOff.png in Resources */,
 				8B64BC661AE0CA240006D2DE /* horizontalButton8@2x.png in Resources */,
+				AAC1CA5C1AE62CE100385455 /* ImageNameBackground.png in Resources */,
 				5D7219D91AC1E958008D6B56 /* graphLevelBtn1.png in Resources */,
 				5D7219F21AC1ED37008D6B56 /* graphLevelBtn4@2x.png in Resources */,
+				AAC1CA761AE62CE100385455 /* IntroPage2New.png in Resources */,
+				AAC1CA9B1AE62CE100385455 /* ReminderDaySelected.png in Resources */,
 				8B64BC361AE0C0B60006D2DE /* labelHeader2@2x.png in Resources */,
 				5D7219EE1AC1ED37008D6B56 /* graphLevelBtn3@2x.png in Resources */,
+				AAC1CAA51AE62CE100385455 /* ScheduleSessionLogoOff.png in Resources */,
 				5D1E45D61ABDE76800E8B21D /* skipIntroNon.png in Resources */,
 				5D3F1BE61AC334F1008B4212 /* setUpAccNavBtn.png in Resources */,
 				5D8C2CA01ABF0A05007F01C7 /* linkedinButtonBG.png in Resources */,
 				5D1E45D71ABDE76800E8B21D /* skipIntroNon@2x.png in Resources */,
+				AAC1CABB1AE62CE100385455 /* What'sHotBackground.png in Resources */,
+				AAC1CA5E1AE62CE100385455 /* InActivePageSource.png in Resources */,
 				8B64BC651AE0CA240006D2DE /* horizontalButton8.png in Resources */,
 				8B6B30CE1AE130210026F3A8 /* challengeComImgFeedback@2x.png in Resources */,
 				8B64BC841AE0E2C30006D2DE /* backArrowBlack@2x.png in Resources */,
 				8B64BCB21AE102D60006D2DE /* tabbarIcon2ON@2x.png in Resources */,
+				AAC1CA261AE62CE100385455 /* ChallengeSectionFuture.png in Resources */,
+				AAC1CA531AE62CE100385455 /* IleCertifiedLogo.png in Resources */,
+				AAC1CA281AE62CE100385455 /* ChallengeSectionPlayback.png in Resources */,
 				5D7219DA1AC1E958008D6B56 /* graphLevelBtn1@2x.png in Resources */,
 				5D7219FD1AC1EED8008D6B56 /* graphLevelBtn5.png in Resources */,
 				5D8C2CAC1ABF0E5E007F01C7 /* womanStandingBG.png in Resources */,
@@ -1304,32 +2153,56 @@
 				5D5F1DF11AC46C780017206D /* accountBottomBarBG.png in Resources */,
 				5D7219F11AC1ED37008D6B56 /* graphLevelBtn4.png in Resources */,
 				5D8C2CA61ABF0AC0007F01C7 /* qqButtonBG.png in Resources */,
+				AAC1C9EF1AE62CE100385455 /* AboutMeLogo.png in Resources */,
 				8B64BC7D1AE0E0750006D2DE /* meButtonIcon.png in Resources */,
+				AAC1C9E91AE62CE100385455 /* A1.png in Resources */,
+				AAC1CA231AE62CE100385455 /* IN A JOB INTERVIEW.PSD in Resources */,
 				8B64BCCB1AE1047D0006D2DE /* tabbarIcon4ON@3x.png in Resources */,
 				5D5CC7961AE018CA00DE77F9 /* horizontalButton3@3x.png in Resources */,
 				8B64BC2F1AE0C0430006D2DE /* labelHeader1.png in Resources */,
+				AAC1CA2C1AE62CE100385455 /* ChallengeSeries2.png in Resources */,
 				8B64BCBC1AE103880006D2DE /* tabbarIcon3@3x.png in Resources */,
+				AAC1CA471AE62CE100385455 /* ForwardInstructor.png in Resources */,
 				5D1E45D01ABDDF5C00E8B21D /* englishLangButtonBG.png in Resources */,
 				5D5F1E081AC48B0F0017206D /* customWorkProExp.png in Resources */,
 				8B64BC471AE0C45D0006D2DE /* labelHeader3.png in Resources */,
 				5D1E45DD1ABDE83600E8B21D /* skipIntroNonColor@2x.png in Resources */,
 				8B64BC491AE0C45D0006D2DE /* labelHeader3@3x.png in Resources */,
+				AAC1CAA11AE62CE100385455 /* ReviewPointDeducted.png in Resources */,
 				8B6B30C51AE12F030026F3A8 /* challengeComButtonPlay.png in Resources */,
+				AAC1C9F21AE62CE100385455 /* AwardChallengeTaken.png in Resources */,
 				5DE574EE1AC832040080CFB4 /* customAbilitiesNav@2x.png in Resources */,
 				8B64BC6C1AE0CB030006D2DE /* horizontalButton9@2x.png in Resources */,
 				8B64BC301AE0C0430006D2DE /* labelHeader1@2x.png in Resources */,
+				AAC1CA101AE62CE100385455 /* ChallengeGrey.png in Resources */,
+				AAC1CA411AE62CE100385455 /* FollowLogoOff.png in Resources */,
 				5DE574EF1AC832040080CFB4 /* customAbilitiesNav@3x.png in Resources */,
+				AAC1CA7B1AE62CE100385455 /* IvyPointsBanner.png in Resources */,
+				AAC1CAB11AE62CE100385455 /* StudentChallengeCommentOneLine.png in Resources */,
+				AAC1CA991AE62CE100385455 /* RegisterBackground.png in Resources */,
+				AAC1CA7F1AE62CE100385455 /* LiveCoachChallengeOn.png in Resources */,
 				5DA9B9A11ABE7DDA000B43E8 /* logRegBackButton.png in Resources */,
+				AAC1C9ED1AE62CE100385455 /* A2MeaningBackground.png in Resources */,
+				AAC1CA4A1AE62CE100385455 /* GetStartedButton.png in Resources */,
 				5D7219F01AC1ED37008D6B56 /* graphLevelBtn3Selected@2x.png in Resources */,
 				5D760E211AE177120049720C /* livetutorSearchTxt.png in Resources */,
+				AAC1CA351AE62CE100385455 /* ChallengeStrip.png in Resources */,
+				AAC1CA3E1AE62CE100385455 /* FollowCheckInActive.png in Resources */,
 				5D7219AD1AC1D766008D6B56 /* nearestCity.png in Resources */,
 				5D5CC79B1AE01A1A00DE77F9 /* horizontalButton4@2x.png in Resources */,
 				5D7219F41AC1ED37008D6B56 /* graphLevelBtn4Selected@2x.png in Resources */,
 				8B64BC371AE0C0B60006D2DE /* labelHeader2@3x.png in Resources */,
+				AAC1CA961AE62CE100385455 /* ProfileVerticalStrip.png in Resources */,
 				5D1E45DE1ABDE83600E8B21D /* skipIntroNonColor@3x.png in Resources */,
+				AAC1CA651AE62CE100385455 /* InstructorRating.png in Resources */,
+				AAC1CA611AE62CE100385455 /* InstructorLevelA.png in Resources */,
+				AAC1CA9E1AE62CE100385455 /* ReviewGreenStar.png in Resources */,
 				8B64BC791AE0DFD50006D2DE /* meButtonImg@3x.png in Resources */,
+				AAC1CAA21AE62CE100385455 /* ReviewReadLock.png in Resources */,
 				5D8C2CA11ABF0A05007F01C7 /* linkedinButtonBG@2x.png in Resources */,
+				AAC1CAB01AE62CE100385455 /* StudentChallengeCommentMic.png in Resources */,
 				5D721A011AC1EED8008D6B56 /* graphLevelBtn6.png in Resources */,
+				AAC1CA291AE62CE100385455 /* ChallengeSectionPlaybackWaiting.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
